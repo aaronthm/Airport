@@ -31,7 +31,7 @@ airportGrouped = by_flight %>%
   na.omit(sum_arr_flight)
 
 ggplot(airportGrouped, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
-  ggtitle("Top 10 Frequently Delayed Airports") + 
+  ggtitle("Frequently Delayed Airports") + 
   xlab("Airports") +
   ylab("Frequency") +
   theme(plot.title = element_text(hjust = 0.5), axis.text.x = element_blank(), axis.ticks.x = element_blank())
@@ -40,10 +40,11 @@ ggplot(airportGrouped, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "ide
 by_airport_top50 = by_flight %>% 
   group_by(airport) %>%
   summarise(sum_arr_flight = sum(arr_flights)) %>%
-  filter(rank(desc(sum_arr_flight))<= 50)
+  arrange(desc(sum_arr_flight)) %>%
+  head(50)
 
 ggplot(by_airport_top50, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
-  ggtitle("Top 10 Frequently Delayed Airports") + 
+  ggtitle("Top 50 Frequently Delayed Airports") + 
   xlab("Airports") +
   ylab("Frequency") +
   theme(plot.title = element_text(hjust = 0.5), axis.text.x = element_text(angle = 90, hjust = 0.5))
@@ -52,7 +53,8 @@ ggplot(by_airport_top50, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "i
 by_airport_top10 = by_flight %>% 
   group_by(airport) %>%
   summarise(sum_arr_flight = sum(arr_flights)) %>%
-  filter(rank(desc(sum_arr_flight))<=10)
+  arrange(desc(sum_arr_flight)) %>%
+  head(10)
 
 ggplot(by_airport_top10, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
   ggtitle("Top 10 Frequently Delayed Airports") + 
