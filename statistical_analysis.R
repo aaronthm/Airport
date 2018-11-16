@@ -8,38 +8,45 @@ head(flight_delay)
 
 flight_delay <- flight_delay %>%
   group_by(airport) %>%
-  select("year", "X.month", "carrier", "carrier_name","airport", "airport_name", "arr_flights", "arr_del15", "carrier_ct",
-                      "X.weather_ct","nas_ct", "late_aircraft_ct", "arr_diverted")
+  select(year, X.month, carrier, carrier_name, airport, airport_name, arr_flights, arr_del15, carrier_ct,
+                      X.weather_ct, nas_ct, late_aircraft_ct, arr_diverted)
 
 by_flight <- flight_delay %>% group_by(airport, year, X.month)
 
 # Calculate the min, max, median, and mean.
 summary(by_flight)
 
-# Calculate the standard deviation for each column
+# Calculate the standard deviation for each column per airport
 by_flight %>%
-  select("year", "X.month", "airport","arr_flights", "arr_del15", "carrier_ct",
-         "X.weather_ct","nas_ct", "late_aircraft_ct", "arr_diverted") %>%
+  group_by(airport) %>%
+  select(airport, year, X.month, arr_flights, arr_del15, carrier_ct,
+         X.weather_ct, nas_ct, late_aircraft_ct, arr_diverted) %>%
   summarise_all(funs(sd(., na.rm = TRUE)))
 
 ## Total occurences of flights delayed per airport
 # All airports
 airportGrouped = by_flight %>% 
-  group_by(airport_name) %>%
+  group_by(airport) %>%
   summarise(sum_arr_flight = sum(arr_flights)) %>%
   na.omit(sum_arr_flight)
 
-barplot(airportGrouped$sum_arr_flight, xlab = 'Airport', ylab = 'Flight Delayed', 
-        main = 'Flight Delayed for Airports')
+ggplot(airportGrouped, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
+  ggtitle("Top 10 Frequently Delayed Airports") + 
+  xlab("Airports") +
+  ylab("Frequency") +
+  theme(plot.title = element_text(hjust = 0.5), axis.text.x = element_blank(), axis.ticks.x = element_blank())
 
 #top 50
 by_airport_top50 = by_flight %>% 
-  group_by(airport_name) %>%
+  group_by(airport) %>%
   summarise(sum_arr_flight = sum(arr_flights)) %>%
   filter(rank(desc(sum_arr_flight))<= 50)
 
-barplot(by_airport_top50$sum_arr_flight, xlab = 'Airport', ylab = 'Flight Delayed', 
-        main = 'Flight Delayed for Airports')
+ggplot(by_airport_top50, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
+  ggtitle("Top 10 Frequently Delayed Airports") + 
+  xlab("Airports") +
+  ylab("Frequency") +
+  theme(plot.title = element_text(hjust = 0.5), axis.text.x = element_text(angle = 90, hjust = 0.5))
 
 #top 10
 by_airport_top10 = by_flight %>% 
@@ -47,10 +54,11 @@ by_airport_top10 = by_flight %>%
   summarise(sum_arr_flight = sum(arr_flights)) %>%
   filter(rank(desc(sum_arr_flight))<=10)
 
-top_10 <- ggplot(by_airport_top10, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
+ggplot(by_airport_top10, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
   ggtitle("Top 10 Frequently Delayed Airports") + 
   xlab("Airports") +
-  ylab("Frequency")
+  ylab("Frequency") +
+  theme(plot.title = element_text(hjust = 0.5))
   
 
 # Correlation Plot 
