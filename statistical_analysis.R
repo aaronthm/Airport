@@ -1,6 +1,7 @@
 #setwd("~/Desktop/INFO370/Final_Project")
 library(corrplot)
 library(dplyr)
+library(ggplot2)
 
 flight_delay <- read.csv("airline_delay_causes.csv")
 head(flight_delay)
@@ -42,12 +43,15 @@ barplot(by_airport_top50$sum_arr_flight, xlab = 'Airport', ylab = 'Flight Delaye
 
 #top 10
 by_airport_top10 = by_flight %>% 
-  group_by(airport_name) %>%
+  group_by(airport) %>%
   summarise(sum_arr_flight = sum(arr_flights)) %>%
   filter(rank(desc(sum_arr_flight))<=10)
 
-barplot(by_airport_top10$sum_arr_flight, xlab = 'Airport', ylab = 'Flight Delayed', 
-        main = 'Flight Delayed for Airports')
+top_10 <- ggplot(by_airport_top10, aes(x=airport, y= sum_arr_flight)) + geom_bar(stat = "identity", fill = "steelblue") +
+  ggtitle("Top 10 Frequently Delayed Airports") + 
+  xlab("Airports") +
+  ylab("Frequency")
+  
 
 # Correlation Plot 
 relationships <- by_flight %>%
