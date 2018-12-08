@@ -1,0 +1,1460 @@
+"","year","month","carrier","carrier_name","airport","airport_name","arr_flights","arr_del15","carrier_ct","weather_ct","nas_ct","late_aircraft_ct","arr_delay","security_ct"
+"1",0,8,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",952,245,69.83,1.59,82.64,89.11,13121,1.83
+"2",0,8,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8401,1240,355.17,52.82,415.7,415.53,68518,0.77
+"3",0,8,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",1048,258,92.53,6.59,82.07,76.17,15423,0.64
+"4",0,8,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",12263,2461,600.18,103.51,872.64,883.24,160831,1.44
+"5",0,8,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",624,136,44.03,6.01,54.66,30.8,6655,0.51
+"6",0,8,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1309,349,96.24,8.36,106.05,135.46,20366,2.89
+"7",0,8,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3566,761,211.92,23.71,299.45,222.76,48318,3.16
+"8",0,8,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5882,1097,263.52,44.84,456.47,329.31,75000,2.86
+"9",0,8,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4912,753,239.99,24.04,242.88,243.07,43268,3.01
+"10",0,8,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1194,433,79.74,10.11,249.63,91.52,24113,2
+"11",0,8,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",86,4,1,0,1.35,1,120,0.65
+"12",0,8,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",180,32,17.36,0,6.27,6.79,1366,1.58
+"13",0,8,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",145,20,7.16,0,7.24,5.6,684,0
+"14",0,8,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",59,9,2,1.63,3.05,2.32,293,0
+"15",0,8,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",381,52,23.66,0,15.08,12.36,1847,0.9
+"16",0,8,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",792,131,28.91,0,71.7,30.38,5621,0
+"17",0,8,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",198,23,3.7,0,12.14,7.16,893,0
+"18",0,8,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",185,30,8.75,0.11,8.49,11.65,974,1
+"19",0,8,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",486,139,11.36,0,108.38,18.26,6699,1
+"20",0,8,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",147,34,16.33,0,6.17,11.5,2310,0
+"21",0,8,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",120,42,11.58,0.78,16.96,12.69,1804,0
+"22",0,8,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",120,39,17.96,0.73,9.15,10.94,2485,0.22
+"23",0,8,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",58,22,4.94,0,16.05,0.8,891,0.21
+"24",0,8,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",489,153,48.11,4.46,43.93,54.24,9575,2.26
+"25",0,8,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",513,184,64.22,2.79,81.86,35.13,11091,0
+"26",0,8,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",264,92,32.35,2.56,34.74,21.44,6916,0.92
+"27",0,8,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,27,8.6,1,10.28,6.56,2128,0.56
+"28",0,8,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",579,216,50.51,9.44,119.1,36.83,13971,0.12
+"29",0,8,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",21550,2205,592.22,84.98,670.23,854.59,135289,2.97
+"30",0,8,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",585,64,24.71,2.98,20.93,15.38,2771,0
+"31",0,8,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",952,131,49.37,8.16,50.58,22.9,6503,0
+"32",0,8,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",520,83,28.68,2.16,38.69,13.47,3825,0
+"33",0,8,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",245,40,10.9,2.4,18.75,7.94,1493,0
+"34",0,8,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1145,117,49.8,0.9,47.92,18.37,5949,0
+"35",0,8,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2997,507,152.05,13.28,234.65,105.77,25236,1.25
+"36",0,8,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",757,129,29.15,2.51,74,22.73,7839,0.61
+"37",0,8,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",603,71,28.88,2.43,24.91,14.78,3501,0
+"38",0,8,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1299,394,63.74,2.5,275.84,50.92,22846,1
+"39",0,8,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3095,404,97,0,94.24,212.77,27354,0
+"40",0,8,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",216,77,26.68,0,18.92,31.41,5055,0
+"41",0,8,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1067,246,69.17,0,57.11,119.72,17083,0
+"42",0,8,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3540,453,66.1,14.36,189.52,183.02,38675,0
+"43",0,8,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",1987,291,58.99,6.19,134.34,91.48,29341,0
+"44",0,8,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",318,66,12.61,0.18,18.44,34.78,4762,0
+"45",0,8,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",92,25,8.03,0,5.89,11.08,1850,0
+"46",0,8,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",2024,402,68.98,3.74,165.61,163.67,26359,0
+"47",0,8,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",62,11,4.31,0.02,6.67,0,756,0
+"48",0,8,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",139,28,6.44,0,17.56,4,1975,0
+"49",0,8,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",678,143,42.92,0.37,37.69,62.03,8196,0
+"50",0,8,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",195,53,14.78,1,22.8,14.41,3612,0
+"51",0,8,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",260,61,11.58,2.44,22.45,24.53,5708,0
+"52",0,8,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",211,60,16.29,1,12.84,29.87,4391,0
+"53",0,8,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",187,70,9.87,0.15,48.24,11.73,6579,0
+"54",0,8,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",78,7,6.71,0,0,0.29,243,0
+"55",0,8,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",165,24,20.21,0,0,3.79,1025,0
+"56",0,8,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,5,5,0,0,0,198,0
+"57",0,8,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,7,3.32,0,0,3.68,419,0
+"58",0,8,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",637,140,26.22,1.85,88.17,22.31,8130,1.45
+"59",0,8,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",372,99,14.4,0.8,58.03,25.76,5429,0
+"60",0,8,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",819,195,31.27,3.86,120.33,39.54,14653,0
+"61",0,8,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",651,121,9.33,4.03,86.1,20.06,7581,1.47
+"62",0,8,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1023,190,30.04,2.81,114.98,41.17,11754,1
+"63",0,8,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",837,177,26.01,1.26,111.33,37.88,10450,0.52
+"64",0,8,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",930,181,34.65,7.59,106.09,31,12093,1.67
+"65",0,8,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,9,0.71,1,4.59,2.7,522,0
+"66",0,8,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1094,224,45.57,7.5,61.72,109.21,18565,0
+"67",0,8,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",52,14,4.09,2.66,4.34,2.91,1146,0
+"68",0,8,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",4102,694,147.69,12.1,165.15,366.06,60323,3
+"69",0,8,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",384,96,20.08,6.11,28.78,41.03,7586,0
+"70",0,8,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",663,150,37.92,5.34,57.33,49.4,9819,0
+"71",0,8,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",360,86,12.39,3.52,19.37,49.21,6568,1.52
+"72",0,8,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2777,575,88.63,16.62,201.76,267.59,47946,0.4
+"73",0,8,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",8190,1826,300.99,49.79,562.72,909,163032,3.51
+"74",0,8,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1272,159,30.63,2.67,24.91,100.79,11291,0
+"75",0,8,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",3325,1419,115.85,64.65,635.08,601.48,134670,1.93
+"76",0,8,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",471,89,23.92,5.03,36.85,23.2,5437,0
+"77",0,8,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",174,23,5.04,1.39,3.94,12.62,1572,0
+"78",0,8,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5784,665,173.27,37.03,232.73,220.97,41162,1
+"79",0,8,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",660,130,33.37,7.01,50.76,38.86,8888,0
+"80",0,8,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5202,737,160.95,42.6,260.93,272.52,52599,0
+"81",0,8,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1068,212,62.54,10.09,59.14,80.23,12723,0
+"82",0,8,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2571,478,130.01,28.72,155.13,164.14,32571,0
+"83",0,8,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",7161,1109,228.39,49.15,431.48,399.97,83986,0
+"84",0,8,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",563,96,18.67,13.34,27.71,36.28,6631,0
+"85",0,8,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",6027,1616,233.25,48,940.14,393.41,111012,1.19
+"86",0,8,"VX","Virgin America","DEN","Denver, CO: Denver International",89,33,5.1,1.95,7,18.94,1726,0
+"87",0,8,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",393,124,14.74,2.46,41.07,65.28,5746,0.44
+"88",0,8,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1264,343,84.46,5.35,131.5,120.55,18796,1.13
+"89",0,8,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",149,38,11.01,1.07,15.33,10.6,1735,0
+"90",0,8,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",1906,797,95.6,14.82,430.28,255.59,51463,0.71
+"91",0,8,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3551,877,237.28,24.15,246.65,367.21,43664,1.71
+"92",0,8,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",242,78,27.18,2.2,24.28,24.34,3287,0
+"93",0,8,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",6226,1574,420.67,49.94,363.23,739.34,78306,0.82
+"94",0,8,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6450,1763,423.45,40.76,347.9,948.78,85650,2.11
+"95",0,8,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3710,1438,324.78,24.44,499.9,588.88,68890,0
+"96",0,8,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5169,1412,373.51,22.43,243.5,771.82,67202,0.75
+"97",0,8,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1586,788,128.02,39.51,336.46,284.01,50334,0
+"98",0,9,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",889,113,45.14,3.4,30.68,33.78,6786,0
+"99",0,9,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8063,884,256.43,15.02,364.16,245.31,47762,3.08
+"100",0,9,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",914,128,62.43,1.17,35.08,28.52,7488,0.81
+"101",0,9,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",11392,1038,404,25.82,260.19,341.24,68908,6.75
+"102",0,9,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",550,56,19.92,2.58,19.68,13.82,2849,0
+"103",0,9,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1154,160,52.38,2.26,70.13,34.92,8893,0.31
+"104",0,9,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3038,277,111.26,11.62,99.22,52.91,14560,2
+"105",0,9,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5469,699,189.24,20.33,306.14,179.18,41223,4.12
+"106",0,9,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4194,409,143.46,7.08,128.88,127.83,21871,1.76
+"107",0,9,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1072,199,49.72,2.55,109.79,36.94,10281,0
+"108",0,9,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",51,6,2.13,0,3.87,0,130,0
+"109",0,9,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",140,23,10.46,0,8.02,4.52,665,0
+"110",0,9,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",115,10,6.28,0,1.72,2,466,0
+"111",0,9,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",43,4,1,0,1.25,1.75,288,0
+"112",0,9,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",335,45,16.23,0,18.76,10.01,2654,0
+"113",0,9,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",667,64,24.78,0,26.46,12.75,2405,0
+"114",0,9,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",177,18,7.21,0,10.04,0.75,581,0
+"115",0,9,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",175,23,6.69,0,11.9,4.41,809,0
+"116",0,9,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",451,111,17.59,0,84.98,8.43,5864,0
+"117",0,9,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",140,25,12,0,3.15,9.66,1379,0.19
+"118",0,9,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",109,13,4.09,1,5.38,2.53,1058,0
+"119",0,9,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",90,20,7.29,0.07,6.13,6.51,1225,0
+"120",0,9,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",55,9,1.91,0,4.58,2.51,448,0
+"121",0,9,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",504,108,42.51,1.55,29.83,33.65,8035,0.46
+"122",0,9,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",477,80,29.99,1.86,23.83,24.32,3783,0
+"123",0,9,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",203,38,14.39,0,14.23,9.38,2588,0
+"124",0,9,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",60,14,7.64,0,2.4,3.95,980,0
+"125",0,9,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",557,132,23.54,6.2,67.06,35.2,9080,0
+"126",0,9,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",19640,1659,527.66,60.43,548.23,520.68,117681,2
+"127",0,9,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",532,45,18.95,2.41,17.01,6.62,2577,0
+"128",0,9,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",889,82,43.45,2.78,23.13,12.65,5326,0
+"129",0,9,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",503,40,20.23,4.44,8.35,6.97,2023,0
+"130",0,9,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",223,26,8.49,1.62,10.54,5.35,1019,0
+"131",0,9,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1053,88,34.51,1.49,39.77,12.23,5449,0
+"132",0,9,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2639,256,86.3,8.24,120.84,40.63,14024,0
+"133",0,9,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",701,64,21.69,3.15,28.76,10.4,3213,0
+"134",0,9,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",503,45,18.55,2,20.1,4.35,2227,0
+"135",0,9,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1096,207,32.67,1.92,154.57,17.85,11205,0
+"136",0,9,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1971,173,57.82,0,28.24,86.94,16312,0
+"137",0,9,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",180,37,17.42,0,10.34,9.24,2149,0
+"138",0,9,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",937,99,32.21,0,17.94,48.85,6902,0
+"139",0,9,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3294,301,53.55,6.45,148.56,92.44,22096,0
+"140",0,9,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",1663,174,22.56,7.49,70.95,73,14637,0
+"141",0,9,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",270,28,9.46,0.86,10.84,6.84,1884,0
+"142",0,9,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",78,9,4.84,0.46,1.05,2.65,596,0
+"143",0,9,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1900,201,48.8,0.46,63.24,88.49,14051,0
+"144",0,9,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",50,10,3.32,0.24,5.05,1.38,365,0
+"145",0,9,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",125,17,4.2,0,10.79,2.01,1016,0
+"146",0,9,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",709,118,20.87,0.02,48.16,48.95,8068,0
+"147",0,9,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",196,23,4.77,0.23,9.26,8.74,1233,0
+"148",0,9,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",240,35,10.89,0.28,13.31,10.52,1724,0
+"149",0,9,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",174,8,5.07,0,0.91,2.02,753,0
+"150",0,9,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",182,41,8.26,0,23.36,9.38,3423,0
+"151",0,9,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",75,2,2,0,0,0,141,0
+"152",0,9,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",153,30,25.49,0,0,3.7,1245,0.81
+"153",0,9,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",30,3,2.02,0,0,0.98,113,0
+"154",0,9,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",60,8,6,1,0,1,296,0
+"155",0,9,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",614,81,21.84,2.85,37.18,18.84,5526,0.29
+"156",0,9,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",297,45,16.35,0,16.63,12.01,2611,0
+"157",0,9,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",743,98,30.74,3.25,40.29,21.85,8971,1.87
+"158",0,9,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",600,89,23.35,0,38.7,26.51,5288,0.44
+"159",0,9,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1027,149,38.17,2.92,52.92,54.99,11380,0
+"160",0,9,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",785,102,39.86,0.63,27.26,34.25,7045,0
+"161",0,9,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",807,127,40.12,1.58,46.97,36.89,7577,1.43
+"162",0,9,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",30,7,4.11,0,2.03,0.86,1072,0
+"163",0,9,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1297,161,47,3.12,38.84,71.04,9754,1
+"164",0,9,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",103,21,6.32,0,12.85,0.83,732,1
+"165",0,9,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3773,343,91.29,8,100.91,141.34,28588,1.46
+"166",0,9,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",327,47,12.86,0.95,13.17,20.02,3621,0
+"167",0,9,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",724,98,33.45,0,32.28,32.27,4634,0
+"168",0,9,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",340,53,10.79,2,11.34,28.87,4489,0
+"169",0,9,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2616,345,47.1,3.93,135.41,158.56,23751,0
+"170",0,9,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6518,958,175.13,19.87,294.84,468.16,70519,0
+"171",0,9,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1101,101,26.67,0.94,30.05,43.34,8450,0
+"172",0,9,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",3001,746,64.09,31.26,389.29,260.7,64702,0.67
+"173",0,9,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",437,46,11.35,0.85,19.5,14.3,2141,0
+"174",0,9,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",95,11,1.5,0,4.96,4.55,487,0
+"175",0,9,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5150,356,128.22,5.75,110.38,111.65,21103,0
+"176",0,9,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",531,37,16.13,0.12,10.13,10.62,2431,0
+"177",0,9,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",4234,328,108.05,8.93,124.43,86.58,17724,0
+"178",0,9,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1090,125,29.54,4.22,51.03,40.22,8677,0
+"179",0,9,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2193,233,74.89,7.1,82.53,68.48,13408,0
+"180",0,9,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6916,574,161.98,11.55,221.02,179.23,35347,0.22
+"181",0,9,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",516,45,13.51,2,13.42,16.07,2346,0
+"182",0,9,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",5150,868,124.52,6.15,535.85,201.48,57133,0
+"183",0,9,"VX","Virgin America","DEN","Denver, CO: Denver International",84,19,2.34,0.44,6.4,9.82,1070,0
+"184",0,9,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",354,79,8.69,2.59,31.62,35.74,4866,0.38
+"185",0,9,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1242,187,35.44,5.1,77.13,68.32,9113,1
+"186",0,9,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",141,21,2.37,1.65,6.81,10.17,1017,0
+"187",0,9,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",1861,522,99.04,3.94,282.37,135.7,30771,0.95
+"188",0,9,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3334,381,120.38,6.56,102,151.78,19069,0.28
+"189",0,9,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",232,25,9.04,1.85,5.79,8.32,907,0
+"190",0,9,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5599,728,236.56,13.09,156.8,320.55,34046,1
+"191",0,9,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6057,830,217.17,37.88,171.94,401.01,44627,2.01
+"192",0,9,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3444,674,162.66,10.57,220,280.78,31686,0
+"193",0,9,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4766,739,213.17,9.57,144.68,370.59,33063,1
+"194",0,9,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1476,478,64.04,23.87,210.04,179.05,27875,1
+"195",0,10,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",950,137,50.67,0.79,48.5,35.87,6557,1.17
+"196",0,10,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8349,951,293.96,19.3,342.94,289.93,54218,4.86
+"197",0,10,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",930,168,67,1.38,59.16,40.27,7873,0.19
+"198",0,10,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",12057,1370,426.12,22.9,448.47,468.44,88372,4.07
+"199",0,10,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",554,96,37.8,0.3,40.23,17.67,4830,0
+"200",0,10,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1222,214,80.17,3.73,79.85,47.63,9757,2.63
+"201",0,10,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3168,355,126.69,6.94,98.54,119.24,24487,3.59
+"202",0,10,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5597,844,203.8,14.51,421.94,202.79,48324,0.96
+"203",0,10,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4669,540,192.32,9.37,184.27,152.19,26042,1.84
+"204",0,10,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1151,372,64.2,2.76,237.14,67.65,24865,0.25
+"205",0,10,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",52,4,1.53,0,1.58,0.89,171,0
+"206",0,10,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",120,19,6.35,0,7.08,5.56,655,0
+"207",0,10,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",120,7,3.93,0,1.07,2,257,0
+"208",0,10,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",44,4,1.95,0,2.05,0,230,0
+"209",0,10,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",343,40,14.39,0,14.81,10.81,1645,0
+"210",0,10,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",657,69,29.35,0.8,28.25,10.6,2589,0
+"211",0,10,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",182,34,7.03,0,20.87,6.1,1325,0
+"212",0,10,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",182,28,6.44,1,9.3,11.26,1113,0
+"213",0,10,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",462,99,19.81,0.93,67.61,10.66,7018,0
+"214",0,10,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",147,18,7.76,0,3.21,7.03,872,0
+"215",0,10,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",110,14,4.82,0,2.52,6.66,1055,0
+"216",0,10,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",89,22,8.52,0,7.75,5.73,1084,0
+"217",0,10,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",58,8,2.51,0,5.49,0,247,0
+"218",0,10,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",517,93,33.62,1,36.67,21.12,4238,0.59
+"219",0,10,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",511,73,20.14,0,19.89,32.97,5114,0
+"220",0,10,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",202,44,15.65,1.52,16.77,9.97,2597,0.09
+"221",0,10,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,11,6.23,0,2.06,2.71,442,0
+"222",0,10,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",569,143,25.73,1,85.83,30.44,11592,0
+"223",0,10,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",20795,2074,609.12,48.75,618.59,796.05,116761,1.49
+"224",0,10,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",561,57,25.29,0.52,19.53,11.66,2296,0
+"225",0,10,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",953,128,60.86,4.64,43.82,18.68,6315,0
+"226",0,10,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",609,55,24.8,1.68,15.38,13.14,2545,0
+"227",0,10,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",236,32,13.87,0.79,7.94,8.41,1205,1
+"228",0,10,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1115,98,29,1.57,45.13,22.3,4545,0
+"229",0,10,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2740,288,106.52,5.06,105.54,68.87,19597,2
+"230",0,10,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",721,74,19.71,1.71,35.94,16.64,3976,0
+"231",0,10,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",582,31,18.79,1.45,7.5,3.26,1656,0
+"232",0,10,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1140,274,32.18,3.16,206.42,31.28,26320,0.95
+"233",0,10,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1558,273,78.23,0,37.97,156.8,30055,0
+"234",0,10,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",264,61,24.21,0,13.6,23.18,4892,0
+"235",0,10,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",927,142,43.01,0,21.64,77.35,13026,0
+"236",0,10,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3603,440,73.51,10.09,211.09,145.31,32142,0
+"237",0,10,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",1231,161,21.51,3.26,79.25,56.98,18027,0
+"238",0,10,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",238,58,17.08,0,15.71,25.21,4417,0
+"239",0,10,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",89,20,11.84,0.68,2.95,4.54,854,0
+"240",0,10,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1690,243,69.54,1.28,65.24,106.94,19048,0
+"241",0,10,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",69,14,3.57,0,4.88,5.55,866,0
+"242",0,10,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",84,20,3.84,0,9.46,6.69,916,0
+"243",0,10,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",703,132,27.18,0.2,54.85,49.76,8786,0
+"244",0,10,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",162,40,10.1,0,13.1,16.8,3027,0
+"245",0,10,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",303,55,12.18,0,20.52,22.3,5607,0
+"246",0,10,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",188,19,6.02,0.17,3.06,9.75,1082,0
+"247",0,10,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",132,41,8.47,0.19,26.22,6.12,3318,0
+"248",0,10,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",79,8,7.37,0,0,0.63,175,0
+"249",0,10,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",155,24,22.66,1,0,0.34,1283,0
+"250",0,10,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,4,3,0,0,1,117,0
+"251",0,10,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,4,2.58,0,0.42,1,101,0
+"252",0,10,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",633,59,16.73,0.35,24.64,17.28,4149,0
+"253",0,10,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",287,36,8.21,1.67,15.92,10.2,2338,0
+"254",0,10,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",747,93,19.11,1.72,34.67,37.42,10966,0.07
+"255",0,10,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",611,79,14.57,2.61,36,24.43,4818,1.4
+"256",0,10,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1068,113,22.36,2.08,52.41,34.42,6635,1.73
+"257",0,10,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",802,101,20.12,1.37,49.19,29.45,6638,0.87
+"258",0,10,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",810,119,17.55,2.31,64.62,33.16,7805,1.35
+"259",0,10,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,6,2.91,0,0.2,2.89,331,0
+"260",0,10,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1483,305,75.42,4.41,74.58,149.58,28288,1
+"261",0,10,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",107,40,6,0,21.67,12.33,2107,0
+"262",0,10,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3880,519,118.55,18.23,162.49,219.34,37707,0.4
+"263",0,10,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",392,68,26.73,0.9,16.37,24,4983,0
+"264",0,10,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",805,150,35.48,5.28,55.95,53.3,8656,0
+"265",0,10,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",346,56,8.16,6.58,15.38,25.88,5984,0
+"266",0,10,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2944,463,84.49,8.52,197.06,172.93,34229,0
+"267",0,10,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6886,1274,220.99,17.42,435.19,599.32,111659,1.08
+"268",0,10,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1213,109,20.28,0,27.26,61.46,11241,0
+"269",0,10,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",3113,735,72.93,22.57,375,264.5,77290,0
+"270",0,10,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",488,60,18.09,1.3,19.17,21.45,2979,0
+"271",0,10,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",84,9,3.24,0,3.42,2.34,517,0
+"272",0,10,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5331,498,149.23,13.13,153.69,181.96,31054,0
+"273",0,10,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",546,51,13.77,1.97,12.99,22.28,2542,0
+"274",0,10,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",4674,428,124.71,7.09,158.83,137.37,26512,0
+"275",0,10,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1168,163,31.64,5.88,61.84,63.63,9210,0
+"276",0,10,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2312,321,76.14,10.92,147.57,86.37,17561,0
+"277",0,10,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6961,760,176.33,10.29,326.89,246.49,54218,0
+"278",0,10,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",620,79,26.68,2.49,22.19,27.64,4570,0
+"279",0,10,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",5428,1137,160.08,15.19,720.09,241.43,96967,0.22
+"280",0,10,"VX","Virgin America","DEN","Denver, CO: Denver International",89,20,3.1,0.73,2.88,13.29,1592,0
+"281",0,10,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",367,88,7.68,1.08,26.93,52.31,4896,0
+"282",0,10,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1302,256,66.21,4.69,92.35,92.75,13122,0
+"283",0,10,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",146,33,6.24,0.79,14.79,11.18,1912,0
+"284",0,10,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",2000,609,89.1,6.98,347.24,162.83,47396,2.84
+"285",0,10,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3500,442,152.62,3.45,98.27,181.87,19029,5.78
+"286",0,10,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",238,51,10.23,0.27,18.22,22.27,1864,0
+"287",0,10,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5806,808,251.88,5.03,184.76,363.12,31839,3.21
+"288",0,10,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6306,899,241.39,8.82,212.6,432,40865,4.19
+"289",0,10,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3645,827,206.8,2.61,289.71,323.64,35795,4.23
+"290",0,10,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4977,662,203.57,2.99,105.36,346.83,29775,3.25
+"291",0,10,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1526,445,78.87,3.94,221.36,140.49,31226,0.33
+"292",0,11,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",889,91,34.24,0,20.88,35.54,3948,0.34
+"293",0,11,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7730,657,253.98,7.18,164.77,228.25,36644,2.81
+"294",0,11,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",814,84,39.14,0.67,20.24,23.29,4385,0.67
+"295",0,11,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",11106,851,302.7,10.05,222.16,307.45,58922,8.65
+"296",0,11,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",525,48,22.37,0,15.7,9.92,2085,0
+"297",0,11,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1112,131,47.72,2.27,51.62,27.73,5632,1.67
+"298",0,11,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2937,316,116.63,2.12,111.51,82.62,18843,3.12
+"299",0,11,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5049,549,174.35,3.34,214.98,153.76,29541,2.58
+"300",0,11,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4237,400,131.37,5.07,127.63,132.12,20461,3.81
+"301",0,11,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1067,256,47.91,1.4,180.27,26.41,13220,0
+"302",0,11,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",55,6,3,0.05,0.95,2,450,0
+"303",0,11,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",116,16,4.65,1.21,4.99,5.16,1133,0
+"304",0,11,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",116,7,2.51,0,2.31,2.18,312,0
+"305",0,11,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",43,6,1.95,0.35,2.08,1.62,272,0
+"306",0,11,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",319,52,16.75,2.24,17.86,15.15,3552,0
+"307",0,11,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",625,92,22.63,2.12,53.33,12.61,4306,1.31
+"308",0,11,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",162,19,9.19,1.49,5.31,3,1107,0
+"309",0,11,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",216,25,9.06,1.69,8.62,5.63,1750,0
+"310",0,11,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",458,117,20.04,1.06,77.7,18.19,7072,0
+"311",0,11,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",146,16,10.16,0,2.62,2.88,610,0.35
+"312",0,11,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",106,10,5.17,0,2.6,2.24,328,0
+"313",0,11,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",84,7,3.92,0,1.83,1.25,400,0
+"314",0,11,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",55,2,2,0,0,0,125,0
+"315",0,11,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",375,60,20.91,0,20.41,18.67,2860,0
+"316",0,11,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",516,55,13.1,0,36.86,4.04,2044,1
+"317",0,11,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",161,24,14.27,0,5.94,3.07,979,0.71
+"318",0,11,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",60,11,5.4,0,2.68,2.93,464,0
+"319",0,11,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",485,108,20.13,0,78.17,9.71,6435,0
+"320",0,11,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",19719,868,337.77,18.6,219.45,291.19,52112,0.98
+"321",0,11,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",518,20,9.43,0,8.58,1.99,878,0
+"322",0,11,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",868,55,23.7,0.37,19.55,10.38,2838,1
+"323",0,11,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",496,14,9.66,0,0.71,3.64,434,0
+"324",0,11,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",243,12,7.74,0,3.3,0.96,348,0
+"325",0,11,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1022,83,26.25,1.51,42.9,12.34,3285,0
+"326",0,11,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2591,295,80.44,9.17,161.91,43.48,14153,0
+"327",0,11,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",690,48,12.94,2.82,25.93,6.31,1890,0
+"328",0,11,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",537,34,15.67,0,15.31,3.02,1403,0
+"329",0,11,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",985,266,39.19,3.42,203.87,18.52,13559,1
+"330",0,11,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1359,135,38.57,0,15.92,80.52,8817,0
+"331",0,11,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",264,67,29.22,0,12.8,24.98,4720,0
+"332",0,11,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",880,101,32.09,0,14.91,54,7115,0
+"333",0,11,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2922,164,21.55,8.43,90.28,43.73,9588,0
+"334",0,11,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",1267,118,10.87,3.69,71.61,31.83,6066,0
+"335",0,11,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",254,53,18.27,0,10.37,24.36,3090,0
+"336",0,11,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",90,9,4.07,1.13,1.13,2.66,311,0
+"337",0,11,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1627,124,33.67,1.12,29.43,59.78,7570,0
+"338",0,11,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",68,6,1.95,0,2.2,1.86,417,0
+"339",0,11,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",43,8,4.31,0,0,3.69,395,0
+"340",0,11,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",704,114,29.94,1,45.26,37.8,7197,0
+"341",0,11,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",120,28,10.02,0.21,5.91,11.85,1946,0
+"342",0,11,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",227,29,7.69,0,9.66,11.65,1851,0
+"343",0,11,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",228,43,9.84,1,15.62,16.54,2927,0
+"344",0,11,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",107,27,3.94,0,18.56,4.5,2109,0
+"345",0,11,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",77,4,3,0,0,1,192,0
+"346",0,11,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",150,24,18.71,0,0,5.29,2180,0
+"347",0,11,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",30,7,7,0,0,0,378,0
+"348",0,11,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",60,6,5,0,0,1,177,0
+"349",0,11,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",602,46,19.96,0,16.67,9.37,3848,0
+"350",0,11,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",243,23,7.24,0,9.83,5.93,1501,0
+"351",0,11,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",609,41,10.13,0,13.39,15.48,3115,2
+"352",0,11,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",505,51,17.16,0,15.32,17.18,3332,1.35
+"353",0,11,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1012,111,25.41,1.21,55.74,28.63,5422,0
+"354",0,11,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",675,78,22.16,0.03,40.17,15.64,3790,0
+"355",0,11,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",749,70,18.02,0,41.44,10.54,3771,0
+"356",0,11,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",74,4,1.68,0,1.32,1,134,0
+"357",0,11,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1310,160,47.19,3.56,40.69,68.56,12739,0
+"358",0,11,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",138,28,8.56,1,13.47,4.97,1110,0
+"359",0,11,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3550,326,96.76,19.85,80.45,128.16,30325,0.79
+"360",0,11,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",402,43,13.07,1,5.99,22.94,2924,0
+"361",0,11,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",660,89,23.6,3.97,25.75,35.67,6002,0
+"362",0,11,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",290,17,4.08,1,4.45,7.41,608,0.06
+"363",0,11,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2516,289,50.06,2.5,110.21,126.19,19078,0.04
+"364",0,11,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6435,1047,151.81,19.03,368.04,506.12,81946,2
+"365",0,11,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1049,72,21.44,0.81,14.51,32.24,6319,3
+"366",0,11,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2854,714,65.25,28.97,395.32,223.63,60379,0.82
+"367",0,11,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",504,58,14.64,0,15.82,27.54,3210,0
+"368",0,11,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",87,10,3.1,0,0.2,6.71,644,0
+"369",0,11,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",4727,301,95.87,2.53,87.37,115.22,17801,0
+"370",0,11,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",625,43,18.44,0.35,4.28,19.94,2902,0
+"371",0,11,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5104,313,105.59,2.37,87.08,117.96,21035,0
+"372",0,11,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1003,114,31.71,0,39.76,42.53,7265,0
+"373",0,11,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2199,203,58.99,0,92.77,51.24,12659,0
+"374",0,11,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5823,456,132.31,2.34,145.68,175.67,29694,0
+"375",0,11,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",669,62,20.66,0,14.18,27.16,2817,0
+"376",0,11,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",5078,978,139.79,8.25,641.3,188.66,73620,0
+"377",0,11,"VX","Virgin America","DEN","Denver, CO: Denver International",86,9,1.82,0.25,0.43,6.5,432,0
+"378",0,11,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",372,72,18.43,0.3,18.48,34.79,3838,0
+"379",0,11,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1246,251,54.14,14.97,99.38,76.68,11569,5.82
+"380",0,11,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",142,11,4.97,0,2.24,3.79,470,0
+"381",0,11,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",1982,514,82.55,23.56,316.18,91.63,28772,0.07
+"382",0,11,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3410,287,108.81,1.01,42.52,134.31,12734,0.36
+"383",0,11,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",231,24,9.73,0,6.23,8.04,889,0
+"384",0,11,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5511,519,190.54,3.21,76.15,244.45,23449,4.65
+"385",0,11,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",5695,667,192.27,5.52,125.89,339.19,29413,4.13
+"386",0,11,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3496,546,171.05,1.43,145.94,225.18,24882,2.4
+"387",0,11,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4855,582,199.3,2.95,80.73,297.26,27332,1.77
+"388",0,11,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1457,369,89.66,4.63,147.61,127.1,22946,0
+"389",0,12,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",921,165,54.63,7.75,46.3,56.32,9888,0
+"390",0,12,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7842,1030,337.14,33.42,333.81,323.61,57457,2.02
+"391",0,12,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",886,207,79.89,6.04,62.64,58.43,10331,0
+"392",0,12,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",11605,1963,506.1,70.85,747.4,631.21,130822,7.43
+"393",0,12,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",546,104,36.57,1.43,37.78,27.54,5192,0.69
+"394",0,12,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1207,240,89.15,9.44,57.73,83.52,12683,0.17
+"395",0,12,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3245,486,156.89,18.07,176.16,134.57,35768,0.31
+"396",0,12,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5388,977,214.25,26.34,488.27,245.4,64615,2.74
+"397",0,12,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4739,701,229.73,16.15,251.57,200.78,38144,2.76
+"398",0,12,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1146,203,68.31,7.11,83.5,43.16,10629,0.91
+"399",0,12,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",54,5,1.99,0,3.01,0,289,0
+"400",0,12,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",122,15,4.99,0,6.55,3.46,516,0
+"401",0,12,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",111,17,3.21,0,8.45,5.34,633,0
+"402",0,12,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",48,12,5.27,0,5.73,1,408,0
+"403",0,12,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",329,53,13.49,0.89,22.75,15.87,2699,0
+"404",0,12,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",627,92,28.51,0,47.98,15.51,3781,0
+"405",0,12,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",170,27,10.62,1.35,11.67,3.07,1631,0.3
+"406",0,12,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",206,37,14.93,0,11.34,10.73,1568,0
+"407",0,12,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",477,75,17.08,0.98,30.74,26.2,3076,0
+"408",0,12,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",144,42,17.31,0.71,19.33,3.74,2488,0.9
+"409",0,12,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",104,36,13.94,0.79,13.49,7.78,2455,0
+"410",0,12,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",88,30,12.68,1.76,10.87,4.69,1892,0
+"411",0,12,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",47,15,5.07,0,7,2.65,1152,0.28
+"412",0,12,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",364,60,24.59,0,19.44,15.44,3456,0.53
+"413",0,12,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",531,121,41.45,5,53.26,21.29,7026,0
+"414",0,12,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",164,54,22.59,0.06,15.36,15.6,4055,0.39
+"415",0,12,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,16,4.52,0.55,7.77,3.16,805,0
+"416",0,12,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",478,87,24.62,1.03,43.86,17.21,6118,0.29
+"417",0,12,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",19004,2217,621.8,128.48,790.74,669.99,220039,6
+"418",0,12,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",451,56,22.82,3.47,18.44,11.28,2982,0
+"419",0,12,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",832,140,58.67,9.89,46.08,25.36,8152,0
+"420",0,12,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",472,62,30.81,2.88,14.28,14.02,3563,0
+"421",0,12,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",240,41,17.49,3.3,11.53,8.68,2209,0
+"422",0,12,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1031,88,27.92,9.67,29.12,20.28,5072,1
+"423",0,12,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2753,355,128.69,31.17,126.44,68.7,22582,0
+"424",0,12,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",589,87,24.08,8.42,38.52,15.97,5489,0
+"425",0,12,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",620,76,35.2,9.25,16.18,15.37,4563,0
+"426",0,12,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",958,100,30.73,11.41,41.67,15.19,6132,1
+"427",0,12,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1490,265,73.39,0,72.79,118.82,19013,0
+"428",0,12,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",220,54,22.68,0,9.5,21.82,4673,0
+"429",0,12,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",928,166,48.73,0,30.08,87.19,14722,0
+"430",0,12,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3156,523,71.23,29.51,253.21,169.06,34271,0
+"431",0,12,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",1275,286,46.95,10.8,146.19,82.06,19234,0
+"432",0,12,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",276,53,15.73,0.25,13.9,23.13,4077,0
+"433",0,12,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",93,16,8.4,0.28,2.82,4.5,1081,0
+"434",0,12,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1569,342,84.97,5.94,114.21,136.88,20860,0
+"435",0,12,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",56,13,4.34,0,4.13,4.53,645,0
+"436",0,12,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",56,13,4.06,0,3.4,5.54,828,0
+"437",0,12,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",677,158,44.91,0.76,49.08,63.25,10975,0
+"438",0,12,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",124,25,12.71,0.67,5.44,6.18,1455,0
+"439",0,12,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",223,55,10.46,0,27.91,16.62,3287,0
+"440",0,12,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",253,53,19.98,0.44,15.86,16.72,3768,0
+"441",0,12,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",118,38,16.15,0.66,13.86,7.33,2547,0
+"442",0,12,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",79,17,16,0,0,1,904,0
+"443",0,12,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",171,47,28.74,0,0,18.26,2251,0
+"444",0,12,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,9,9,0,0,0,749,0
+"445",0,12,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,14,8.95,0,0,5.05,667,0
+"446",0,12,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",611,107,22.36,2.15,52.06,30.19,5995,0.24
+"447",0,12,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",254,32,4.54,0.44,20.97,6.05,1279,0
+"448",0,12,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",585,109,23.43,0.41,49.66,34.1,7203,1.4
+"449",0,12,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",484,74,19.08,1.37,36.83,16.72,5988,0
+"450",0,12,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1027,137,33.62,6.26,62.93,34.19,10416,0
+"451",0,12,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",646,92,24.61,5.68,40.19,20.55,6497,0.97
+"452",0,12,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",745,157,31.88,0.18,95.44,29.38,9750,0.12
+"453",0,12,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",93,10,1.51,0.11,2.88,5.51,875,0
+"454",0,12,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1817,432,79.88,18.02,106.41,227.69,42111,0
+"455",0,12,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",89,16,3.64,1.47,5.01,5.88,924,0
+"456",0,12,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3849,764,151.84,19.31,255.48,334.25,68040,3.11
+"457",0,12,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",455,114,24.56,2.92,37.78,48.73,9930,0
+"458",0,12,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",632,175,42.83,3.96,65.15,63.06,12488,0
+"459",0,12,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",333,51,16.15,2.58,7.96,24.3,4241,0
+"460",0,12,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2547,341,60.03,4.25,118.5,157.04,26851,1.18
+"461",0,12,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6027,1612,232.64,46.37,596.08,733.39,142880,3.52
+"462",0,12,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1131,106,22.6,1.18,17.18,65.04,9989,0
+"463",0,12,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",3088,531,80.97,10.71,185.38,251.41,39616,2.53
+"464",0,12,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",491,76,18.92,6.05,29.27,21.76,4587,0
+"465",0,12,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",104,20,5.25,1.59,4.24,8.92,1282,0
+"466",0,12,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",4788,596,165.3,31.64,230.11,168.95,36807,0
+"467",0,12,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",590,105,26.73,4.53,33.82,39.92,5948,0
+"468",0,12,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5375,668,175.07,32.41,291.39,169.14,37913,0
+"469",0,12,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",917,125,35.52,6.02,29.26,54.21,6309,0
+"470",0,12,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2359,288,90.29,14.32,112.35,71.04,15826,0
+"471",0,12,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5639,781,162.73,28.11,371.58,218.58,53189,0
+"472",0,12,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",662,90,31.78,2.23,20.85,35.14,5675,0
+"473",0,12,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",5107,702,206.89,34.54,286.31,174.27,42318,0
+"474",0,12,"VX","Virgin America","DEN","Denver, CO: Denver International",89,13,2.69,0,4.93,5.38,591,0
+"475",0,12,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",391,47,9.72,0.11,13.65,23.52,2293,0
+"476",0,12,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1281,221,83.85,4.21,72.62,58.8,10735,1.52
+"477",0,12,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",145,49,12.69,0,27.16,8.01,2343,1.13
+"478",0,12,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",2036,320,98.59,6.25,117.94,93.26,15870,3.96
+"479",0,12,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3485,681,207.18,7.02,158.72,302.88,32595,5.2
+"480",0,12,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",231,61,24.06,2.69,8.77,25.47,3027,0
+"481",0,12,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5590,1122,347.71,12.16,274.96,479.94,51888,7.22
+"482",0,12,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",5827,880,262.87,11.57,132.55,466.45,38409,6.57
+"483",0,12,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3431,550,197.53,6.14,81.3,262.73,26389,2.3
+"484",0,12,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4992,877,301.27,6.1,115.64,451.4,40918,2.59
+"485",0,12,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1441,232,70.25,4.52,37.21,120.03,12874,0
+"486",1,1,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1834,341,68.24,19.87,82.68,170.22,35797,0
+"487",1,1,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",189,31,8.19,0.51,12.44,9.86,1190,0
+"488",1,1,"9E","Endeavor Air Inc.","DEN","Denver, CO: Denver International",3,0,0,0,0,0,0,0
+"489",1,1,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",225,29,12.6,0.45,8.29,7.66,1751,0
+"490",1,1,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",108,20,7.7,2.32,6.34,3.65,1419,0
+"491",1,1,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",167,29,7.95,0,15.99,5.06,1412,0
+"492",1,1,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",956,153,64.22,5.08,40.49,41.94,8794,1.27
+"493",1,1,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7828,948,321.13,38.7,267.73,318.64,61664,1.8
+"494",1,1,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",881,138,55.48,3.62,34.01,42.23,6502,2.66
+"495",1,1,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",11495,1370,423.27,69.78,393.05,479.65,98510,4.25
+"496",1,1,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",475,83,27.84,2.55,32.35,20.26,5585,0
+"497",1,1,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1211,161,69.37,7.44,44.79,38.13,8712,1.26
+"498",1,1,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3153,371,148.71,20.3,109.1,91.79,25934,1.1
+"499",1,1,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5203,755,211.23,22.41,286.82,231.91,44973,2.63
+"500",1,1,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4765,995,192.76,20.7,607.63,172.69,48903,1.22
+"501",1,1,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1119,231,51.82,8,125.32,45.56,11292,0.3
+"502",1,1,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",36,2,0,0,2,0,39,0
+"503",1,1,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",124,19,8.78,0,5.91,4.31,1004,0
+"504",1,1,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",100,4,1,0,2.24,0.76,133,0
+"505",1,1,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",36,9,4.68,0,3.47,0.85,395,0
+"506",1,1,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",324,27,10.96,0,11.22,3.82,1463,1
+"507",1,1,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",702,56,13.28,1.68,34.53,6.51,2480,0
+"508",1,1,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",156,18,3.48,0,13.52,1,620,0
+"509",1,1,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",201,53,6.59,0,43.71,2.7,2032,0
+"510",1,1,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",493,95,8.1,0,78.65,8.26,5506,0
+"511",1,1,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",147,41,16.73,0.79,12.53,10.88,2381,0.07
+"512",1,1,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",117,27,10.32,1.02,8.41,7.25,2313,0
+"513",1,1,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",89,15,5.48,0.14,2.31,7.07,932,0
+"514",1,1,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",51,16,6.15,0,6.83,3.02,1144,0
+"515",1,1,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",399,83,23.73,5.9,21.33,31.23,5690,0.81
+"516",1,1,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",529,87,45.01,4.01,17.45,20.39,6923,0.14
+"517",1,1,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",171,56,26.06,1.77,12.46,15.72,4477,0
+"518",1,1,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,24,5.11,0,10.77,7.51,1472,0.6
+"519",1,1,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",512,116,28.07,5.52,58.2,24.21,7840,0
+"520",1,1,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",19038,2662,626.11,178.39,939.91,917.58,240743,0
+"521",1,1,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",431,57,22.63,5.9,14.94,13.53,3046,0
+"522",1,1,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",778,93,27.2,9.91,33.26,22.63,6856,0
+"523",1,1,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",510,59,21.05,9.44,10.49,18.02,3723,0
+"524",1,1,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",221,37,18.87,4.38,6.35,7.39,2412,0
+"525",1,1,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1132,123,38.39,16.35,43.6,24.65,8336,0
+"526",1,1,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2455,327,122.53,30.27,124.96,49.24,21413,0
+"527",1,1,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",547,80,14.69,13.61,37.72,13.98,5124,0
+"528",1,1,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",582,94,26.53,5.11,50.9,11.47,4734,0
+"529",1,1,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",727,122,27.19,18.02,64.27,12.51,7289,0
+"530",1,1,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",905,198,46.82,0,48.93,102.26,17115,0
+"531",1,1,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",279,57,21.21,0,8.17,27.62,4270,0
+"532",1,1,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",930,114,34.15,0,22.98,56.87,11875,0
+"533",1,1,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3259,368,60.54,19.12,188.15,100.2,30802,0
+"534",1,1,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",912,221,32.41,8.93,86.41,93.25,18107,0
+"535",1,1,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",272,50,19.31,0.34,6.8,23.55,4155,0
+"536",1,1,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",93,16,7.43,2.02,3.12,3.43,1059,0
+"537",1,1,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1607,286,72.93,3.53,73.88,135.65,22245,0
+"538",1,1,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",40,7,3.2,0,0,3.8,389,0
+"539",1,1,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",62,12,3.65,0,3.95,4.4,820,0
+"540",1,1,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",663,154,43.68,2.69,38.15,69.48,11844,0
+"541",1,1,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",124,25,7.22,0.79,8.6,8.39,1512,0
+"542",1,1,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",217,40,3.69,0,11.39,24.92,4181,0
+"543",1,1,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",253,82,17.07,0.03,41.46,23.44,5716,0
+"544",1,1,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",129,48,12.46,0.63,26.46,8.46,3047,0
+"545",1,1,"G4","Allegiant Air","DEN","Denver, CO: Denver International",8,2,0,0.88,1.12,0,178,0
+"546",1,1,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",694,130,41.89,3.7,19.19,65.12,11249,0.09
+"547",1,1,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",109,31,3.34,1.47,10.59,15.28,1968,0.32
+"548",1,1,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",80,24,21.35,0.84,0.83,0.97,747,0
+"549",1,1,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",162,62,56.15,0,0.68,4.43,2373,0.75
+"550",1,1,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,12,11.7,0.3,0,0,570,0
+"551",1,1,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,16,15.77,0,0,0.23,502,0
+"552",1,1,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",56,6,1.09,0.79,2.46,1.67,224,0
+"553",1,1,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",65,9,1.98,0.86,3.42,2.74,625,0
+"554",1,1,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4491,733,150.07,59.75,185.9,335.89,48316,1.39
+"555",1,1,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",126,34,6.07,6.48,15.1,6.35,1936,0
+"556",1,1,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",4704,1098,180.21,54.05,427.38,434.19,69063,2.18
+"557",1,1,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",629,105,28.17,2.88,55.27,17.68,6276,1
+"558",1,1,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",258,33,10.35,1.25,15.33,6.07,3064,0
+"559",1,1,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",608,81,23.92,0.48,34.44,19.22,5490,2.93
+"560",1,1,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",496,60,10.71,1.14,32.8,15.35,3652,0
+"561",1,1,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1054,112,24.38,4.38,51.92,31.09,6847,0.23
+"562",1,1,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",682,83,24.28,3,37.05,17.74,4683,0.94
+"563",1,1,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",774,106,17.56,2.75,63.82,21.86,6505,0
+"564",1,1,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",93,6,1.78,0,2.15,2.07,224,0
+"565",1,1,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",68,12,5.13,0,3.04,3.83,470,0
+"566",1,1,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7867,1439,276.98,52.03,343.35,762.04,85882,4.61
+"567",1,1,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",181,55,18.11,1.67,12.74,22.48,4522,0
+"568",1,1,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2115,621,99.39,31.22,124.11,366.28,62234,0
+"569",1,1,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",93,20,4.05,1.52,8.23,6.2,1349,0
+"570",1,1,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3890,580,119.89,20.65,181.35,256.33,56616,1.78
+"571",1,1,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",463,83,24.62,1.86,10.9,44.54,6542,1.09
+"572",1,1,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",619,133,42.55,4.41,37.89,48.16,10736,0
+"573",1,1,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",476,59,11.26,9.81,14.46,23.47,4678,0
+"574",1,1,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2946,488,76.87,4.52,188.77,216.29,34504,1.55
+"575",1,1,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5925,1757,247.52,40.77,523.09,945.31,167233,0.31
+"576",1,1,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1124,257,36.1,2.06,164.16,53.41,16814,1.27
+"577",1,1,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",3328,978,96.68,55.66,455.34,368.72,76153,1.6
+"578",1,1,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",434,54,15.5,5.67,15.96,16.87,3962,0
+"579",1,1,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",72,9,1.46,1.22,1.63,4.69,543,0
+"580",1,1,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",4695,442,114.53,28.87,142.5,156.09,30186,0
+"581",1,1,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",502,54,15.6,5.81,10.4,22.2,4467,0
+"582",1,1,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5024,479,129.78,21.46,178.92,148.83,30976,0
+"583",1,1,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",895,111,30.19,4.3,46.26,30.26,6276,0
+"584",1,1,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2126,252,87.05,19.48,84.36,61.11,16865,0
+"585",1,1,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5162,610,146.48,36.06,252.95,174.51,41708,0
+"586",1,1,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",655,122,22.8,4.05,71.06,24.09,5240,0
+"587",1,1,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",4468,794,145.7,25.94,465.71,156.65,50315,0
+"588",1,1,"VX","Virgin America","DEN","Denver, CO: Denver International",59,6,2,0,3,1,402,0
+"589",1,1,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",354,52,13.62,0,22.03,16.34,3168,0
+"590",1,1,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1201,138,33.65,6.48,60.93,35.73,6633,1.21
+"591",1,1,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",69,11,4.5,0,5.86,0.64,415,0
+"592",1,1,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",1880,372,68.57,6.79,240.29,53.67,19857,2.68
+"593",1,1,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3529,462,144.25,4.45,112.23,201.08,20436,0
+"594",1,1,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",236,35,10.83,1.4,10.69,12.08,1258,0
+"595",1,1,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5515,708,227.73,14.84,127.35,336.25,32473,1.83
+"596",1,1,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6014,732,196.35,12.31,136.17,387.04,37765,0.13
+"597",1,1,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3604,596,185.48,3.51,149.51,254.43,28183,3.08
+"598",1,1,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5067,1640,207.38,8.22,1061.83,361.21,69117,1.35
+"599",1,1,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1425,376,68.03,10.41,172.07,125.49,22693,0
+"600",1,1,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",191,26,15.67,0.09,4.07,6.17,2053,0
+"601",1,1,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",198,29,11.16,2.61,10.83,3.99,2186,0.4
+"602",1,1,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",2612,387,123.69,15.6,91.73,154.95,25908,1.02
+"603",1,1,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2324,325,96.42,17.88,108.23,102.47,25131,0
+"604",1,1,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1597,446,57.2,1.22,272.61,114.79,23755,0.17
+"605",1,1,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",409,68,12.19,0.86,24.55,30.4,2989,0
+"606",1,1,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",894,127,28.55,4.52,44.48,49.45,7251,0
+"607",1,1,"YX","Republic Airline","DEN","Denver, CO: Denver International",321,48,15.78,1.98,15.29,14.95,3732,0
+"608",1,1,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",330,47,11.97,2.96,16.7,15.37,2805,0
+"609",1,1,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1295,173,33.55,10.15,78.16,49.73,9828,1.41
+"610",1,1,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1484,303,54.53,13.32,133.68,101.42,19131,0.05
+"611",1,2,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1889,306,63.57,8.46,75.77,158.2,29744,0
+"612",1,2,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",204,45,12.03,0.28,18.03,14.66,2592,0
+"613",1,2,"9E","Endeavor Air Inc.","DEN","Denver, CO: Denver International",4,1,0,0,0.42,0.58,24,0
+"614",1,2,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",220,54,14,3.57,25.63,10.81,5951,0
+"615",1,2,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",99,31,5.71,2.08,19.84,3.37,1316,0
+"616",1,2,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",138,30,7.45,0,18.36,4.19,3076,0
+"617",1,2,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",858,136,48.19,5.1,39.21,43.39,7903,0.11
+"618",1,2,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7278,863,257.97,19.8,296.97,285.08,50623,3.18
+"619",1,2,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",786,174,61.52,6.6,54.5,51.13,8207,0.25
+"620",1,2,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",10664,2193,418.74,59.92,909.5,800.09,156506,4.75
+"621",1,2,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",481,123,41.66,4.33,43.73,33.28,6952,0
+"622",1,2,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1113,223,67.48,9.26,102.93,42.03,10275,1.3
+"623",1,2,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2885,381,133.81,15.44,130.36,99.18,21567,2.22
+"624",1,2,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",4644,775,170.65,25.64,322.15,255.02,51969,1.54
+"625",1,2,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4363,1218,182.04,21.63,816.12,196.25,58617,1.95
+"626",1,2,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1002,205,61.3,5.36,91.78,45.96,10061,0.6
+"627",1,2,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",28,4,1.89,0,2.11,0,225,0
+"628",1,2,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",112,17,4.99,0,8.47,3.55,708,0
+"629",1,2,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",84,19,2.1,0.5,12.62,3.78,771,0
+"630",1,2,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",28,10,2.03,0.76,6.82,0.4,355,0
+"631",1,2,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",272,29,11.54,0,9.94,7.05,1150,0.47
+"632",1,2,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",605,45,12.94,2.11,21.17,8.55,1986,0.23
+"633",1,2,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",114,26,1.59,0.76,21.08,2.57,1592,0
+"634",1,2,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",247,68,3.73,0.47,59.73,4.07,3181,0
+"635",1,2,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",442,46,11.1,1.26,30.04,3.6,2275,0
+"636",1,2,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",132,25,12.88,0,9.47,2.65,995,0
+"637",1,2,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",108,24,12.15,1,5.2,5.65,1548,0
+"638",1,2,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",80,30,10.37,0,13.91,5.68,1150,0.03
+"639",1,2,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",48,22,6.53,0,12.83,2.64,893,0
+"640",1,2,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",354,103,29.27,1.12,52.27,20.34,4824,0
+"641",1,2,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",482,160,42.17,0,107.99,9.84,6643,0
+"642",1,2,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",148,64,20.77,1,33.49,8.74,3609,0
+"643",1,2,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",56,31,6.83,0,20.08,4.09,1136,0
+"644",1,2,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",482,136,39.99,0,76.31,19.7,6827,0
+"645",1,2,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",17790,1862,513.88,77.4,637.7,631.31,143740,1.7
+"646",1,2,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",405,46,14.84,1.41,13.94,15.82,3054,0
+"647",1,2,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",717,113,41.64,6.78,44.97,19.61,8361,0
+"648",1,2,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",447,61,14.9,4.81,30.56,10.73,4128,0
+"649",1,2,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",190,24,7.05,1.6,10.43,4.92,1025,0
+"650",1,2,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",957,119,35.29,8.38,55.83,19.49,7719,0
+"651",1,2,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2256,421,112.06,13.64,240.8,54.49,20716,0
+"652",1,2,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",496,101,25.4,6.24,51.85,17.51,8471,0
+"653",1,2,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",562,178,31.02,3.57,121.36,22.05,9158,0
+"654",1,2,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",675,108,31.28,4.99,60.78,10.95,6180,0
+"655",1,2,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",518,78,15.14,0,20.17,42.69,5450,0
+"656",1,2,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",200,47,17.11,0,6.97,22.92,4021,0
+"657",1,2,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",841,225,68.64,0,45.47,110.89,23538,0
+"658",1,2,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3259,646,85.07,24.58,337.6,198.75,42840,0
+"659",1,2,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",766,179,19.7,2.68,86.36,70.27,19031,0
+"660",1,2,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",243,58,13.49,0,11.21,33.3,4541,0
+"661",1,2,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",84,13,5.41,0,1.23,6.36,1524,0
+"662",1,2,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1438,351,78.03,1.92,119.86,151.19,24796,0
+"663",1,2,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",34,12,3.25,0.41,5.27,3.08,710,0
+"664",1,2,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",52,10,2.52,0.24,5.57,1.68,744,0
+"665",1,2,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",579,158,37.59,0.67,69.35,50.38,11249,0
+"666",1,2,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",112,40,11.38,0.54,17.79,10.3,2621,0
+"667",1,2,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",197,33,7.47,1.08,7.37,17.07,3783,0
+"668",1,2,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",229,95,25.51,0.94,54.11,14.45,5984,0
+"669",1,2,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",115,43,14.19,0,21.46,7.35,2626,0
+"670",1,2,"G4","Allegiant Air","DEN","Denver, CO: Denver International",8,5,0.51,1,3.49,0,196,0
+"671",1,2,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",657,168,35.55,8.05,46.23,77.17,13819,1
+"672",1,2,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",100,42,8.47,1.92,16.53,15.08,2310,0
+"673",1,2,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",72,12,11,0,0,1,416,0
+"674",1,2,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",140,49,43.08,0.21,0.54,4.51,1445,0.67
+"675",1,2,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",28,14,13.88,0,0.12,0,359,0
+"676",1,2,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",56,18,15.88,0,0,2.12,600,0
+"677",1,2,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",53,11,1.74,0,4.83,4.43,560,0
+"678",1,2,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",166,32,10.1,1.94,9.1,10.85,2151,0
+"679",1,2,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4022,968,139.05,87.16,355.66,384.52,63801,1.6
+"680",1,2,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",118,55,9.39,4.15,30.94,10.52,2787,0
+"681",1,2,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",4249,908,165.36,48.47,338.13,354.45,62841,1.58
+"682",1,2,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",570,93,22.68,1.06,38.9,30.36,6351,0
+"683",1,2,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",224,29,6.19,1.96,10.36,10.5,1692,0
+"684",1,2,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",546,103,17.78,0,49.95,34.95,12114,0.32
+"685",1,2,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",448,80,18.53,0.99,35.76,24.71,5985,0
+"686",1,2,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",965,196,47.33,2.68,101.98,42.01,12458,2
+"687",1,2,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",616,122,27.96,1.04,75.56,17.44,8672,0
+"688",1,2,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",700,142,25.58,3.26,81.19,31.93,15865,0.03
+"689",1,2,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",84,23,4.42,0.23,9.4,8.96,2693,0
+"690",1,2,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",68,19,3.84,1.3,5.36,8.5,764,0
+"691",1,2,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7218,1596,268.59,69.35,351.45,904.48,111558,2.12
+"692",1,2,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",164,42,11.33,0.93,16.96,12.78,3689,0
+"693",1,2,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1858,368,72.78,10.77,93.19,191.26,35927,0
+"694",1,2,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",100,25,3.96,0.99,12.43,7.62,989,0
+"695",1,2,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3424,716,134.64,22.35,239.85,318.16,60162,1
+"696",1,2,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",468,129,20.49,2.52,54.82,50.41,11720,0.75
+"697",1,2,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",511,152,33.6,6.25,62.99,49.16,9965,0
+"698",1,2,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",360,54,13.65,1.95,10.37,28.02,5014,0
+"699",1,2,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2704,451,68.44,11.82,178.91,191.46,35235,0.38
+"700",1,2,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5462,1395,217.49,52.31,515.47,609.72,128357,0
+"701",1,2,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1041,274,49.34,0.31,161.03,63.32,18523,0
+"702",1,2,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",3010,615,68.49,21.12,268.34,256.7,41590,0.33
+"703",1,2,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",386,44,12.84,1.53,18.65,10.97,2672,0
+"704",1,2,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",50,10,1.13,2.77,1.36,4.73,700,0
+"705",1,2,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",4257,517,128.83,25.48,217.94,143.75,31099,1
+"706",1,2,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",487,107,18.16,9.16,56.11,23.56,7652,0
+"707",1,2,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",4515,639,124.97,22.39,321.76,169.89,33648,0
+"708",1,2,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",885,141,32.41,6.18,69.2,33.22,6143,0
+"709",1,2,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",1915,302,88.14,13.91,159.36,40.59,14668,0
+"710",1,2,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",4816,669,98.76,21.36,376.32,172.57,48817,0
+"711",1,2,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",593,174,23.56,8.41,121.26,20.76,9954,0
+"712",1,2,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",3973,549,110.3,21.1,299.34,118.26,35965,0
+"713",1,2,"VX","Virgin America","DEN","Denver, CO: Denver International",52,10,5.75,0,3.31,0.95,605,0
+"714",1,2,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",312,51,14.2,1.54,22.58,11.68,1989,1
+"715",1,2,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1104,177,40.91,0,99.17,36.92,8263,0
+"716",1,2,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",56,10,3.45,0,5.55,1,875,0
+"717",1,2,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",1735,341,70.06,1.2,200.2,68.4,16835,1.14
+"718",1,2,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3123,447,139.16,6.78,99.72,198.84,19017,2.5
+"719",1,2,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",209,30,11.01,0.82,7.62,10.54,1449,0
+"720",1,2,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",4857,1003,298.08,11.45,258.71,431.94,43091,2.81
+"721",1,2,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",5323,1070,271.49,6.61,218.56,570.19,46706,3.15
+"722",1,2,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3173,877,261.68,7.89,234.29,370.82,38992,2.33
+"723",1,2,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4534,1907,366,15.67,1004.73,516.13,88906,4.47
+"724",1,2,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1231,324,81.56,4.35,81.6,155.28,16764,1.2
+"725",1,2,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",194,42,20,3,8,11,2177,0
+"726",1,2,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",184,33,18,3,6,6,2925,0
+"727",1,2,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",2354,572,143.84,32.09,154.72,239.09,48139,2.27
+"728",1,2,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2099,457,108.2,40,174.59,134.21,34107,0
+"729",1,2,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1530,496,57.56,10.86,280.51,147.07,28881,0
+"730",1,2,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",416,69,11.98,3.25,34.71,19.07,3432,0
+"731",1,2,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",795,92,20.31,3.2,37.11,31.38,5147,0
+"732",1,2,"YX","Republic Airline","DEN","Denver, CO: Denver International",289,44,9.74,1.05,21.89,11.32,3354,0
+"733",1,2,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",250,58,17.74,1.86,27.67,10.73,4012,0
+"734",1,2,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1174,256,51.72,10.66,118.28,75.34,15905,0
+"735",1,2,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1406,276,41.29,1.6,176.47,56.64,17528,0
+"736",1,3,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2294,359,59.06,7.9,130.1,161.94,24057,0
+"737",1,3,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",336,55,13.83,1.4,16.44,23.32,2403,0
+"738",1,3,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",311,57,13.77,1.58,27.46,14.19,2441,0
+"739",1,3,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",131,28,7.35,0.01,13.27,7.37,1622,0
+"740",1,3,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",224,39,7.74,2.32,15.57,13.37,2196,0
+"741",1,3,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",965,140,54.06,3,35.25,47.69,7131,0
+"742",1,3,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8249,903,292.17,16.01,263.15,330.22,50632,1.46
+"743",1,3,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",909,162,71.04,3.1,47.63,39.88,8019,0.35
+"744",1,3,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",12040,1473,402.43,30.07,459.5,577.04,96433,3.96
+"745",1,3,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",538,106,40.58,2.68,35.57,27.17,5547,0
+"746",1,3,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1269,197,75.14,1.97,71.52,48.11,9243,0.27
+"747",1,3,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3332,467,140.46,10.23,212.36,103.22,24902,0.72
+"748",1,3,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5206,667,222.09,13.34,229.34,201.88,35276,0.36
+"749",1,3,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5198,690,221.31,7.67,243.97,216.02,34624,1.04
+"750",1,3,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1088,287,62.55,3.12,168.2,53.13,18547,0
+"751",1,3,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",52,3,1.35,0,0.65,1,112,0
+"752",1,3,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",136,33,5.7,0,21.58,5.72,1254,0
+"753",1,3,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",114,14,3.97,0,8.49,1.53,669,0
+"754",1,3,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",46,5,0.39,0,3.29,1.31,154,0
+"755",1,3,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",321,45,9.92,0,23.03,11.16,1627,0.88
+"756",1,3,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",563,70,6.94,0.29,53.54,8.94,2649,0.3
+"757",1,3,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",154,23,3.68,0,18.44,0.88,757,0
+"758",1,3,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",346,51,9.58,0.78,30.06,10.57,2117,0
+"759",1,3,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",323,79,9.45,0.84,56.96,11.75,4565,0
+"760",1,3,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",265,55,29.61,1.58,12.43,11.38,3011,0
+"761",1,3,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",119,35,15.77,1.32,8.49,9.43,2142,0
+"762",1,3,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",88,18,9.79,0,2.7,4.77,740,0.73
+"763",1,3,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",53,12,3.23,1,5.83,1.94,613,0
+"764",1,3,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",403,102,37.05,0.75,26.36,37.84,6046,0
+"765",1,3,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",551,158,50.7,2.6,80.88,23.81,7278,0
+"766",1,3,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",177,59,28.66,0,11.27,19.07,3797,0
+"767",1,3,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,15,8.86,0.4,2.55,3.19,634,0
+"768",1,3,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",538,188,38.65,1.36,114,32.99,11792,1
+"769",1,3,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",21208,2135,592.53,72.96,768.96,697.4,117864,3.14
+"770",1,3,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",509,49,16.68,3.84,19.31,9.17,2612,0
+"771",1,3,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",1128,181,70.42,6.35,72.21,32.03,11562,0
+"772",1,3,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",436,50,21.37,0.84,13.61,14.18,2342,0
+"773",1,3,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",269,40,15.12,2.44,12.77,9.67,1866,0
+"774",1,3,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1166,140,46.22,3.21,61.57,29,6755,0
+"775",1,3,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2739,656,167.61,12.99,381.21,94.19,33323,0
+"776",1,3,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",617,82,30.93,1.41,30.58,19.08,3564,0
+"777",1,3,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",765,115,44.1,3.26,44.01,22.68,5037,0.94
+"778",1,3,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",888,210,28.46,3.71,167.91,9.91,14821,0
+"779",1,3,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1001,200,58.94,0,44.71,96.35,14688,0
+"780",1,3,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",150,31,10.15,0,2.06,18.79,2861,0
+"781",1,3,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",934,91,32.19,0,18.97,39.84,8749,0
+"782",1,3,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",4040,375,54.87,5.02,226.36,88.75,29983,0
+"783",1,3,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",835,160,21.45,2.16,90.88,45.51,9778,0
+"784",1,3,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",252,50,15.38,0,12.63,21.99,3850,0
+"785",1,3,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",93,8,3.14,0,2,2.86,251,0
+"786",1,3,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1564,264,70.41,1.12,94.66,97.81,17331,0
+"787",1,3,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",36,10,1.33,0,2.51,6.16,542,0
+"788",1,3,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",44,6,1.17,0,1.83,3,306,0
+"789",1,3,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",608,154,38.67,0.2,49.37,65.75,8964,0
+"790",1,3,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",124,37,11.71,0,18.84,6.44,1858,0
+"791",1,3,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",205,47,14.14,0,14.7,18.16,2628,0
+"792",1,3,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",248,46,14.74,0,19.99,11.26,2564,0
+"793",1,3,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",129,54,8.22,0.09,36.09,9.61,4059,0
+"794",1,3,"G4","Allegiant Air","DEN","Denver, CO: Denver International",9,1,0,0,1,0,27,0
+"795",1,3,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",786,184,46.15,5.22,49.27,80.99,11162,2.37
+"796",1,3,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",117,45,10.34,0.67,23.97,10.02,1863,0
+"797",1,3,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",79,8,7,0,0,1,278,0
+"798",1,3,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",176,42,25.47,0,0,15.59,1678,0.94
+"799",1,3,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,9,6.03,0,0,1.97,660,1
+"800",1,3,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,10,6.32,0,0,2.92,323,0.76
+"801",1,3,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",61,6,0.51,1,2.13,2.37,689,0
+"802",1,3,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",310,49,11.7,0.91,11.48,24.82,2323,0.09
+"803",1,3,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4644,564,127.74,39.55,169.03,226.56,33763,1.12
+"804",1,3,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",115,21,4.09,0.78,9.37,6.76,1007,0
+"805",1,3,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",4786,587,135.09,14.34,244.56,191.84,33279,1.17
+"806",1,3,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",633,78,14.35,0.35,43.71,19.5,4391,0.09
+"807",1,3,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",258,27,6.59,5.31,11.43,3.68,2102,0
+"808",1,3,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",608,69,15.4,1.6,34.34,17.66,6194,0
+"809",1,3,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",495,33,4.74,0.23,18.85,9.19,3158,0
+"810",1,3,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1085,123,33.47,1.24,57.12,30.57,11516,0.6
+"811",1,3,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",680,129,23.39,1.88,87.42,16.31,6838,0
+"812",1,3,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",800,121,16.98,2.36,66.36,33.37,6559,1.94
+"813",1,3,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",93,13,2.71,1,5.19,4.1,390,0
+"814",1,3,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",79,18,7.23,0.06,5.76,4.95,907,0
+"815",1,3,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8237,1405,245.53,25.54,378.17,752.82,75930,2.94
+"816",1,3,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",181,33,10.79,0.41,12.47,9.33,1689,0
+"817",1,3,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2147,440,82.43,11.03,150.12,196.25,31722,0.17
+"818",1,3,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",133,27,9.67,0.48,9.9,6.96,1516,0
+"819",1,3,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3767,419,97.92,7.45,171.51,142.12,41192,0
+"820",1,3,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",552,83,23.82,4.9,17.45,36.83,7001,0
+"821",1,3,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",400,72,20.7,3.74,29.61,17.94,5692,0
+"822",1,3,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",260,51,6.59,1.77,8.94,33.7,4259,0
+"823",1,3,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3053,742,76.46,12.28,374.75,277.52,45553,1
+"824",1,3,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6085,866,169.14,17.54,317.6,360.08,63825,1.65
+"825",1,3,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1200,108,20.5,1.03,32.2,54.17,9871,0.09
+"826",1,3,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",3300,933,86.95,46.59,522.55,275.91,84926,1
+"827",1,3,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",444,50,15.02,2.51,12.99,19.48,2700,0
+"828",1,3,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",51,10,3.28,0.12,0.29,6.32,595,0
+"829",1,3,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5115,505,126.95,12.84,210.72,154.5,35107,0
+"830",1,3,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",560,67,22.07,3.12,25.56,16.25,3609,0
+"831",1,3,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5221,537,139.87,17.15,210.38,169.61,32743,0
+"832",1,3,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1045,127,26.29,3.16,35.63,61.93,7655,0
+"833",1,3,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2267,374,105.34,9.98,166.51,92.17,22298,0
+"834",1,3,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5657,568,144.04,12.33,205.94,205.69,35059,0
+"835",1,3,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",721,86,28.72,2.32,21.06,33.9,4966,0
+"836",1,3,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",4847,1067,165.63,16.73,670.52,214.12,80200,0
+"837",1,3,"VX","Virgin America","DEN","Denver, CO: Denver International",60,14,4.97,0,3.84,5.19,740,0
+"838",1,3,"VX","Virgin America","LAS","Las Vegas, NV: McCarran International",364,79,24.19,0.65,18.42,35.65,4755,0.09
+"839",1,3,"VX","Virgin America","LAX","Los Angeles, CA: Los Angeles International",1335,311,61.87,1.32,160.86,85.57,15993,1.38
+"840",1,3,"VX","Virgin America","ORD","Chicago, IL: Chicago O'Hare International",83,17,7.45,0,5,4.56,942,0
+"841",1,3,"VX","Virgin America","SFO","San Francisco, CA: San Francisco International",2136,649,103.36,4.07,380.03,157.69,42967,3.85
+"842",1,3,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3631,509,167.8,7.63,122.94,208.16,23235,2.47
+"843",1,3,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",236,50,15.49,1.25,11.24,22.02,2319,0
+"844",1,3,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5765,1135,338.89,24.08,269.11,500.68,59960,2.23
+"845",1,3,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6240,1268,342.62,8.08,242.11,671.1,60253,4.09
+"846",1,3,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3648,1331,301.92,12.13,539.92,474.37,66877,2.66
+"847",1,3,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5590,1208,410.7,9.35,218.46,565.55,53300,3.94
+"848",1,3,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1410,583,110.09,7.36,214.19,251.37,41551,0
+"849",1,3,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",158,13,7,0,5,1,827,0
+"850",1,3,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",161,20,9,2,8,1,859,0
+"851",1,3,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",2672,340,93.12,21.73,97.6,124.61,21076,2.94
+"852",1,3,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",1944,239,77.94,13.32,91.17,53.56,16059,3
+"853",1,3,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1814,240,62.27,2.94,63.95,109.12,13771,1.72
+"854",1,3,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",505,53,15.23,0.12,20.74,16.91,2580,0
+"855",1,3,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",926,108,30.24,2.03,34.58,40.15,5298,1
+"856",1,3,"YX","Republic Airline","DEN","Denver, CO: Denver International",332,38,7.95,0,17.45,12.6,2557,0
+"857",1,3,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",306,57,16.55,0,29.28,11.17,3395,0
+"858",1,3,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1501,200,49.65,3.86,82.51,63.9,13820,0.09
+"859",1,3,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1723,245,41.95,5.69,125.17,72.19,11635,0
+"860",1,4,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2494,372,62.43,12.01,115.58,181.98,24866,0
+"861",1,4,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",304,52,12.83,2.96,17.22,18.99,4013,0
+"862",1,4,"9E","Endeavor Air Inc.","DEN","Denver, CO: Denver International",4,2,1.78,0,0.22,0,141,0
+"863",1,4,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",218,41,9.33,1.28,22.33,8.06,2879,0
+"864",1,4,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",112,23,8.77,0.46,9.69,4.08,1461,0
+"865",1,4,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",267,51,12.2,3,18.72,17.08,4457,0
+"866",1,4,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",930,145,51.6,5.07,50.15,38.02,7636,0.15
+"867",1,4,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8183,935,282.75,26.97,259.32,365.75,54188,0.21
+"868",1,4,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",823,137,52.99,5.92,34.24,43.84,6819,0
+"869",1,4,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",11360,1560,400.4,46.85,578.45,532.04,108201,2.26
+"870",1,4,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",609,127,45.47,5.55,40.35,35.26,6600,0.37
+"871",1,4,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1215,208,71.94,8.07,62.6,64.53,11496,0.85
+"872",1,4,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3298,465,141.12,17.24,184.07,121.45,24917,1.12
+"873",1,4,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",4941,609,201.51,15.64,176.8,213.04,36527,2
+"874",1,4,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4730,577,183.31,11.2,193.72,188.77,35852,0
+"875",1,4,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1072,219,69.02,6.38,93.16,49.75,11983,0.69
+"876",1,4,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",60,1,0,0,0,1,26,0
+"877",1,4,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",193,27,6.38,0,12.73,7.89,1164,0
+"878",1,4,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",120,11,5.74,0,2.99,2.27,434,0
+"879",1,4,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",52,7,0,0,3.61,3.39,185,0
+"880",1,4,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",666,113,41.37,0.02,43.44,28.17,5385,0
+"881",1,4,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",1850,374,64.84,7.82,218.31,81.6,18280,1.43
+"882",1,4,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",231,26,10.37,0,9.78,5.85,889,0
+"883",1,4,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",286,35,9.53,0.14,17.33,7.59,1376,0.42
+"884",1,4,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2307,572,109.61,3.65,306.72,151.7,34385,0.32
+"885",1,4,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",292,112,50.36,1.03,26.94,31.92,6932,1.75
+"886",1,4,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",116,30,15.64,0,4.29,10.07,2839,0
+"887",1,4,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",86,25,12.08,0,4.64,7.8,963,0.48
+"888",1,4,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",51,13,4.53,0,6.31,2.16,645,0
+"889",1,4,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",396,86,27.1,0,33.15,25.75,3776,0
+"890",1,4,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",529,112,35.54,3.47,53.04,19.96,6473,0
+"891",1,4,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",171,76,30.61,0.98,16.7,27.71,4691,0
+"892",1,4,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",60,16,7.71,0,6.21,2.08,668,0
+"893",1,4,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",524,121,35.88,3.23,60.54,21.36,7748,0
+"894",1,4,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",20637,2138,622.14,74.44,764.16,674.26,133813,3
+"895",1,4,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",453,45,16.56,1.82,15.46,11.16,2546,0
+"896",1,4,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",1018,129,49.03,2.57,50.64,26.76,6594,0
+"897",1,4,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",558,69,23.65,3.06,28.05,14.23,3989,0
+"898",1,4,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",253,39,13.42,1.45,19.49,4.64,1349,0
+"899",1,4,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1109,134,37.61,4.85,63.78,27.76,7019,0
+"900",1,4,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2985,694,179.7,13.22,385.07,115.01,34110,1
+"901",1,4,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",696,84,35.54,2.38,23.97,22.11,3964,0
+"902",1,4,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",713,94,32.97,1.31,43.93,15.78,4672,0
+"903",1,4,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1150,265,57.18,5.01,174.67,27.85,14983,0.29
+"904",1,4,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",791,123,31.56,0,18.44,73,13742,0
+"905",1,4,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",251,28,12.55,0,5.16,10.29,2755,0
+"906",1,4,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",723,74,33.69,0,15.4,24.91,7889,0
+"907",1,4,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3189,406,41.82,11.56,274.64,77.98,23185,0
+"908",1,4,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",705,116,25.44,0.31,51.46,38.8,8631,0
+"909",1,4,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",293,65,19.45,0.04,10.95,34.57,6644,0
+"910",1,4,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",122,30,12.9,0,7.54,9.57,2380,0
+"911",1,4,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1799,377,88.48,2.52,113.42,172.58,29672,0
+"912",1,4,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",50,12,2.26,0,0.13,9.62,959,0
+"913",1,4,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",56,13,2.64,0,2.3,8.06,939,0
+"914",1,4,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",545,130,32.38,0.33,44.47,52.81,8984,0
+"915",1,4,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",97,20,3.91,0,6.66,9.43,1218,0
+"916",1,4,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",204,43,12.48,0.64,13.63,16.25,4678,0
+"917",1,4,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",179,52,15.34,0,10.67,26,5360,0
+"918",1,4,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",65,22,9.15,0,8.25,4.59,1760,0
+"919",1,4,"G4","Allegiant Air","DEN","Denver, CO: Denver International",9,2,0,0,2,0,38,0
+"920",1,4,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",749,150,43.53,2.23,39.55,63.88,13071,0.81
+"921",1,4,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",97,29,6.92,0,9.16,12.92,2105,0
+"922",1,4,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",77,9,8.68,0,0,0.32,339,0
+"923",1,4,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",180,47,30.88,2,1.12,13,2205,0
+"924",1,4,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",30,6,5,0,0,1,491,0
+"925",1,4,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",60,8,6.13,1,0,0.87,158,0
+"926",1,4,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",27,1,0,0,1,0,28,0
+"927",1,4,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",324,70,9.25,1.66,23.05,36.04,4002,0
+"928",1,4,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4736,663,134.26,57.18,234.63,235.81,42126,1.12
+"929",1,4,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",115,13,3.96,0.68,6.98,1.38,486,0
+"930",1,4,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",4344,668,142.56,21.61,275.85,227.09,38273,0.89
+"931",1,4,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",668,113,3.47,0,105.55,3.98,8462,0
+"932",1,4,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",290,35,0.64,0,33.51,0.85,2920,0
+"933",1,4,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",735,157,8.17,0,136.4,12.32,12150,0.11
+"934",1,4,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",538,94,4.68,0,83.33,5.73,9661,0.25
+"935",1,4,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1097,172,8.25,0,157.3,6.46,13603,0
+"936",1,4,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",681,117,2.52,0,112.41,2.07,5882,0
+"937",1,4,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",814,130,6.45,0,121.1,2.45,8835,0
+"938",1,4,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",52,7,0,0,5,2,355,0
+"939",1,4,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",109,28,11.63,0,11.11,5.26,1142,0
+"940",1,4,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8275,1121,236.99,25.97,257.07,597.22,66815,3.75
+"941",1,4,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",170,42,11.51,0.77,11.11,18.62,2172,0
+"942",1,4,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1932,323,59.58,7.34,92.95,163.12,19001,0
+"943",1,4,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",267,44,11.41,1.26,17.26,14.06,2536,0
+"944",1,4,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3838,450,86.33,17.45,156.96,188.37,35420,0.88
+"945",1,4,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",438,55,14.49,3.79,15.7,20.94,5203,0.07
+"946",1,4,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",477,79,16.36,4.57,36.94,21.13,4530,0
+"947",1,4,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",329,51,11.4,3.02,12.19,24.39,2417,0
+"948",1,4,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2550,466,66.18,11.58,235.05,152.45,26345,0.75
+"949",1,4,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6391,1079,180.24,17.53,412.16,467.91,78242,1.16
+"950",1,4,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1064,73,12.68,1.76,19.21,39.25,5348,0.11
+"951",1,4,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2778,542,64.83,21.61,293.14,162.31,45123,0.11
+"952",1,4,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",405,73,19.74,0.97,26.32,25.96,4057,0
+"953",1,4,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",43,8,3,0,1.2,3.8,691,0
+"954",1,4,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",4930,477,124.38,14.38,174.13,164.11,32696,0
+"955",1,4,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",540,95,18.84,3.03,39.32,33.81,6382,0
+"956",1,4,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",4868,627,154.82,16.13,276.48,179.57,38602,0
+"957",1,4,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1176,176,44.79,7.03,62.55,61.63,10113,0
+"958",1,4,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2438,374,83.22,9.89,192.65,88.24,21344,0
+"959",1,4,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5932,716,185.6,21.09,250.09,259.22,47925,0
+"960",1,4,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",676,86,24.76,0.61,27.22,33.41,4667,0
+"961",1,4,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",4988,813,166.67,17.87,440.11,188.35,60809,0
+"962",1,4,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3509,582,179.45,8.28,137.5,255.52,30196,1.25
+"963",1,4,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",238,100,32.76,1.7,33.42,32.12,4446,0
+"964",1,4,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5636,1078,317.58,11.32,223.62,520.12,54499,5.35
+"965",1,4,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6248,1322,370.2,12.8,270.17,666.53,61286,2.3
+"966",1,4,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3575,1126,294.92,5.74,416.93,408.35,54937,0.06
+"967",1,4,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5285,1049,313.96,5.84,192.68,534.53,52932,2
+"968",1,4,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1435,482,109.12,2.8,158.25,211.83,29249,0
+"969",1,4,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",178,27,16,0,3,8,1624,0
+"970",1,4,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",159,28,12,1,7,8,2918,0
+"971",1,4,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",2722,395,119.23,24.31,99.15,151.22,27738,1.08
+"972",1,4,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2349,266,63.64,11,129.95,59.42,16368,2
+"973",1,4,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1821,180,47.14,1.94,51.79,79.14,12548,0
+"974",1,4,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",385,53,18.02,0.4,19.76,14.83,2799,0
+"975",1,4,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",703,71,13.36,6.38,21.63,29.63,3982,0
+"976",1,4,"YX","Republic Airline","DEN","Denver, CO: Denver International",316,43,13.05,2.66,12.61,14.68,2946,0
+"977",1,4,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",305,65,14.25,1.39,30.47,18.89,4310,0
+"978",1,4,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1440,205,52.27,9.39,80.89,62.45,15323,0
+"979",1,4,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1570,226,47.17,6.4,87.24,85.19,15146,0
+"980",1,5,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2507,338,55.72,16.12,136.55,129.6,21647,0
+"981",1,5,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",305,47,11.41,0.92,21.92,12.75,3290,0
+"982",1,5,"9E","Endeavor Air Inc.","DEN","Denver, CO: Denver International",4,0,0,0,0,0,0,0
+"983",1,5,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",198,28,13.39,1,11.48,2.13,2058,0
+"984",1,5,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",106,16,2.99,1.68,9.58,1.76,735,0
+"985",1,5,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",284,92,17.25,4.13,50.94,19.68,8429,0
+"986",1,5,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1008,227,62.44,10.66,85.59,68.11,14605,0.2
+"987",1,5,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8470,1320,351.99,54.11,409.23,502.67,81284,2
+"988",1,5,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",933,210,81.84,6.17,62.13,58.67,12637,1.18
+"989",1,5,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",12065,1843,466.49,99.53,390.4,882.71,163006,3.87
+"990",1,5,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",700,136,60.97,5.16,24.78,45.08,8931,0
+"991",1,5,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1210,252,89.9,9.02,69.77,83.3,15430,0
+"992",1,5,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3450,568,175.04,27.94,185.65,179.37,35821,0
+"993",1,5,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5458,1246,248.69,45.98,604.73,346.61,91053,0
+"994",1,5,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4810,607,201.83,23.81,157,224.03,37703,0.33
+"995",1,5,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1158,374,67.75,11.27,214.62,80.01,26411,0.35
+"996",1,5,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",62,4,0,0,3,1,92,0
+"997",1,5,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",208,46,13.24,0,26.43,6.24,1740,0.09
+"998",1,5,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",124,17,2.97,0,10.88,2.57,644,0.58
+"999",1,5,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",57,5,1.7,0,3.3,0,185,0
+"1000",1,5,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",713,154,39.59,0.19,75.98,37.81,7188,0.43
+"1001",1,5,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",1954,452,107.6,2.93,256.41,84.7,20143,0.35
+"1002",1,5,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",292,69,13.74,0,46.16,9.1,3388,0
+"1003",1,5,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",235,39,10.51,0,22.3,5.69,1380,0.5
+"1004",1,5,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2465,844,129.81,13.91,543.74,153.1,49737,3.45
+"1005",1,5,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",298,90,44.88,1.31,20.78,23.03,6331,0
+"1006",1,5,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",120,31,16.54,0.25,10.87,3.34,1521,0
+"1007",1,5,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",89,42,17.46,0,12.28,11.54,2131,0.72
+"1008",1,5,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",58,12,10.02,0,1.91,0.06,731,0
+"1009",1,5,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",432,88,39.37,1.31,23.37,23.95,4471,0
+"1010",1,5,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",551,105,50.21,0,29.84,24.96,7330,0
+"1011",1,5,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",242,102,30.54,2.17,52.22,17.06,7317,0
+"1012",1,5,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,22,9.57,0.32,7.28,4.83,1254,0
+"1013",1,5,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",516,168,34.76,2.5,102.81,27.93,11479,0
+"1014",1,5,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",21384,3095,804.37,107.55,1198.66,981.76,186765,2.65
+"1015",1,5,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",490,85,24.03,2.47,40.99,17.51,4597,0
+"1016",1,5,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",1021,124,42.81,9.67,44.72,26.8,6825,0
+"1017",1,5,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",560,81,30.05,2.2,24.07,24.68,4711,0
+"1018",1,5,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",259,44,21.54,1.35,11.54,9.57,2163,0
+"1019",1,5,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1116,131,49.6,8.31,40.74,32.35,6467,0
+"1020",1,5,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",3107,507,141.98,14.08,226.41,122.63,25258,1.89
+"1021",1,5,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",772,189,37.18,9.9,116.98,24.93,15560,0
+"1022",1,5,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",720,82,26.21,8.32,30.53,16.94,4839,0
+"1023",1,5,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1237,413,63.87,6.12,304.2,37.81,24636,1
+"1024",1,5,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",830,142,51.18,0,35.36,55.46,12418,0
+"1025",1,5,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",249,37,12.77,0,9.88,14.35,3723,0
+"1026",1,5,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",965,123,45.12,0,12.25,65.62,14876,0
+"1027",1,5,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2939,267,40.14,15.41,143.91,67.53,27226,0
+"1028",1,5,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",615,129,17.98,7.92,71.57,31.53,12366,0
+"1029",1,5,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",324,89,23.04,1.24,36.01,28.71,4975,0
+"1030",1,5,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",126,35,5.67,1.35,12.7,15.27,3082,0
+"1031",1,5,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1998,505,111.71,5.54,129.25,258.5,40382,0
+"1032",1,5,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",65,21,5.49,0,6.7,8.81,1548,0
+"1033",1,5,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",62,20,3.16,0.03,5.34,11.47,1286,0
+"1034",1,5,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",550,152,39,1.19,36.8,75.01,12184,0
+"1035",1,5,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",93,25,7.03,0,9.32,8.65,1432,0
+"1036",1,5,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",235,86,13.94,0,36.21,35.86,8516,0
+"1037",1,5,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",154,49,18.95,0,12.92,17.13,4472,0
+"1038",1,5,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",47,26,6.29,0,11.59,8.11,1934,0
+"1039",1,5,"G4","Allegiant Air","DEN","Denver, CO: Denver International",18,7,0.15,0,3.44,3.4,313,0
+"1040",1,5,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",743,185,51.45,8.52,29.61,95.43,13963,0
+"1041",1,5,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",99,15,5.33,0,4.61,5.06,1066,0
+"1042",1,5,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",80,13,12,0,0,1,950,0
+"1043",1,5,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",186,51,35.71,0,0,15.29,2091,0
+"1044",1,5,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,8,7,0,0,1,451,0
+"1045",1,5,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,11,8.92,0.56,0.3,1,363,0.22
+"1046",1,5,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",51,14,0.92,0.14,6.09,6.85,839,0
+"1047",1,5,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",317,59,19.5,3.51,14.97,21.01,3958,0
+"1048",1,5,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4578,599,142.04,49.83,114.36,290.84,43921,1.93
+"1049",1,5,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",62,11,0.26,2.26,4.07,4.41,915,0
+"1050",1,5,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",4783,1013,154.89,80.41,418.51,357.42,86745,1.78
+"1051",1,5,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",683,123,20.3,3.91,76.82,21.97,7799,0
+"1052",1,5,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",309,52,9.47,2,27.52,13.01,3577,0
+"1053",1,5,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",898,149,29.24,10.53,65.28,43.95,17129,0
+"1054",1,5,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",584,71,13.75,3.89,33.56,19.8,5701,0
+"1055",1,5,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1189,197,40.08,8.16,98.64,46.61,16950,3.52
+"1056",1,5,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",724,136,29.95,1.64,73.74,30.67,8822,0
+"1057",1,5,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",850,220,28.59,6.6,149.85,33.96,21535,1
+"1058",1,5,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,8,4.63,0,1.54,1.83,278,0
+"1059",1,5,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",107,24,6.08,1.11,8.63,8.18,1521,0
+"1060",1,5,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8645,1604,300.27,78.76,376.95,844.49,112736,3.53
+"1061",1,5,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",189,33,8.27,0.08,11.93,12.72,2759,0
+"1062",1,5,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1985,363,50.36,31.22,120.67,160.74,23992,0
+"1063",1,5,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",315,68,20.51,4.42,26.16,16.91,5584,0
+"1064",1,5,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",3944,556,128.12,19.73,186.39,220.75,44907,1
+"1065",1,5,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",523,76,13.81,12.5,10.39,39.3,6582,0
+"1066",1,5,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",541,97,24.11,3.94,32.43,35.52,9484,1
+"1067",1,5,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",224,42,7.74,2.79,7.24,24.22,2718,0
+"1068",1,5,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2594,472,55.08,7.04,237.26,172.15,26066,0.47
+"1069",1,5,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6481,1521,242.58,59.56,587.57,629.2,160302,2.09
+"1070",1,5,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1099,81,18.63,1.83,19.42,41.12,5888,0
+"1071",1,5,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2718,957,46.26,27.65,596.07,286.19,89537,0.82
+"1072",1,5,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",440,98,25.63,2.49,29.92,39.95,6244,0
+"1073",1,5,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",31,8,2.91,0.07,1.13,3.89,439,0
+"1074",1,5,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5171,618,169.08,29.97,219.23,199.72,43589,0
+"1075",1,5,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",565,122,27.08,8.12,32.14,54.66,9353,0
+"1076",1,5,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5238,735,194.31,35.92,257.41,247.36,60581,0
+"1077",1,5,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1263,227,46.15,10.66,62.01,108.18,15206,0
+"1078",1,5,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2632,461,93.8,28.52,211.53,127.15,27412,0
+"1079",1,5,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6426,1331,239.22,48.85,678.13,364.8,112216,0
+"1080",1,5,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",655,118,39.57,10.71,27.54,40.18,7752,0
+"1081",1,5,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",5242,1295,184.8,35.61,775.56,299.03,103089,0
+"1082",1,5,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3593,795,208.38,18.81,203.74,362.49,43042,1.58
+"1083",1,5,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",247,113,38.48,0.65,41.03,32.84,5302,0
+"1084",1,5,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",5846,1245,366.21,22.21,248.18,604.92,67710,3.48
+"1085",1,5,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6383,1251,329.21,18.03,200.92,699.84,61805,2.99
+"1086",1,5,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3667,1038,301.96,8.17,352.92,373.95,49958,1
+"1087",1,5,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5405,1057,337.56,14.42,136.75,563.62,55593,4.65
+"1088",1,5,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1486,596,97.08,8.74,271.35,218.82,40783,0
+"1089",1,5,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",191,30,11,4,13,2,1704,0
+"1090",1,5,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",175,34,14,1,14,5,2129,0
+"1091",1,5,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",2845,415,102.11,22.82,72.83,216.14,33031,1.11
+"1092",1,5,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2518,270,70,23,77.19,99.81,21590,0
+"1093",1,5,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1901,249,63.18,1,41.68,143.14,16334,0
+"1094",1,5,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",372,83,18.68,6.8,33.44,24.08,4744,0
+"1095",1,5,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",754,111,18.46,9.56,36.75,46.23,6810,0
+"1096",1,5,"YX","Republic Airline","DEN","Denver, CO: Denver International",294,31,10.84,3.59,8.32,8.25,2001,0
+"1097",1,5,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",305,37,11.87,0.75,16.55,7.82,2968,0
+"1098",1,5,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1341,148,40.27,6.35,35.23,66.15,9743,0
+"1099",1,5,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1716,355,50.01,16.06,195.22,93.49,26540,0.21
+"1100",1,6,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2312,479,75.7,29.48,145.3,228.53,51054,0
+"1101",1,6,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",222,35,15.94,0,11.63,7.43,1837,0
+"1102",1,6,"9E","Endeavor Air Inc.","DEN","Denver, CO: Denver International",5,0,0,0,0,0,0,0
+"1103",1,6,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",111,10,1.96,1.4,5.1,1.54,438,0
+"1104",1,6,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",162,27,6.05,1,13.19,6.77,1605,0
+"1105",1,6,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",166,37,9.42,0.01,20.77,6.8,3725,0
+"1106",1,6,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",964,260,73.55,17.68,96.71,71.85,15251,0.21
+"1107",1,6,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7812,1309,380.35,78.96,344.27,505.41,78912,0
+"1108",1,6,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",934,287,90.3,13.59,95.69,86.06,17400,1.36
+"1109",1,6,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",12657,2800,668.82,139.86,769.36,1219.53,200339,2.43
+"1110",1,6,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",728,212,78.95,13.85,51.39,67.35,11433,0.45
+"1111",1,6,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1257,341,115.85,22.84,79.38,120.87,18243,2.05
+"1112",1,6,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3463,584,201.71,43.24,145.11,192.22,44309,1.72
+"1113",1,6,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5565,1648,304.34,85.41,747.29,510.05,123661,0.91
+"1114",1,6,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4739,802,266.39,30.11,183.56,319.91,49877,2.03
+"1115",1,6,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1171,406,109.44,20.25,158.79,117.16,23715,0.35
+"1116",1,6,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",85,10,0.93,0,5.24,3.83,318,0
+"1117",1,6,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",188,40,16.59,0,17.2,6.21,1412,0
+"1118",1,6,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",149,14,2.1,0,7.09,4.81,513,0
+"1119",1,6,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",60,7,0,0,5,2,186,0
+"1120",1,6,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",698,108,47.9,1,25.6,33.5,4499,0
+"1121",1,6,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",1965,355,106.22,3.29,165.78,78.3,16132,1.41
+"1122",1,6,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",324,96,19.29,0,62.56,13.15,4640,1
+"1123",1,6,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",181,10,2.21,0,1.71,6.07,235,0
+"1124",1,6,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2354,665,164.31,6.92,356.81,132.27,33748,4.68
+"1125",1,6,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",288,77,35.11,5.44,18.38,18.07,4755,0
+"1126",1,6,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",118,16,4.87,1.66,5.88,3.59,1257,0
+"1127",1,6,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",102,28,10.35,0,7.35,9.48,1504,0.82
+"1128",1,6,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",55,6,3.51,0,2.44,0.05,131,0
+"1129",1,6,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",383,66,28.35,2.89,15.84,18.92,3499,0
+"1130",1,6,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",516,88,31.31,6.65,31.08,18.95,5254,0
+"1131",1,6,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",245,91,23.29,1.09,52.53,14.09,7417,0
+"1132",1,6,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",60,25,9.12,0,5.79,8.09,998,2
+"1133",1,6,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",512,135,36.88,3.25,74.53,20.34,7121,0
+"1134",1,6,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",21029,4176,1026.09,188.33,1515.76,1443.45,370937,2.36
+"1135",1,6,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",501,89,27.79,6.28,23.87,31.06,6219,0
+"1136",1,6,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",1043,144,51.82,8.16,54.08,29.94,8621,0
+"1137",1,6,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",723,139,55.89,14.99,38.68,29.45,9730,0
+"1138",1,6,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",275,65,16.37,7.38,20.03,21.21,4517,0
+"1139",1,6,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1154,128,49.07,14.28,36.88,27.77,6093,0
+"1140",1,6,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",3272,444,179.36,23.54,122.77,118.33,33905,0
+"1141",1,6,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",932,291,47,10.89,174.74,58.37,28454,0
+"1142",1,6,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",685,98,40.57,5.44,27.65,24.34,6338,0
+"1143",1,6,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1355,277,77.11,15.29,143.18,41.42,18219,0
+"1144",1,6,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1204,268,87.3,0,67.74,112.96,24920,0
+"1145",1,6,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",312,51,20.02,0,7.95,23.04,3820,0
+"1146",1,6,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",949,144,50.78,0,21.9,71.32,17367,0
+"1147",1,6,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2972,438,60.02,22.58,207.7,147.7,34562,0
+"1148",1,6,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",622,185,27.25,4.3,115.27,38.19,23472,0
+"1149",1,6,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",312,106,36,1.36,30.04,38.61,8299,0
+"1150",1,6,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",108,40,16.96,0,8.2,14.83,2859,0
+"1151",1,6,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",1942,641,121.97,4.08,164.67,350.28,52729,0
+"1152",1,6,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",59,29,7.74,0,7.52,13.74,2257,0
+"1153",1,6,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",60,25,7.31,0,4.08,13.61,1827,0
+"1154",1,6,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",530,200,57.07,2.85,24.86,115.22,16752,0
+"1155",1,6,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",90,26,11.36,0,4.04,10.61,1749,0
+"1156",1,6,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",240,107,27.47,4.16,34.4,40.97,9817,0
+"1157",1,6,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",150,63,17.96,0,8.54,36.51,6656,0
+"1158",1,6,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",71,38,11.49,1.1,10.63,14.78,2351,0
+"1159",1,6,"G4","Allegiant Air","DEN","Denver, CO: Denver International",29,9,1.96,0,4.47,2.58,362,0
+"1160",1,6,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",756,200,67.18,3.37,23.57,105.88,17080,0
+"1161",1,6,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",216,46,11.56,1.21,6.71,26.51,4114,0
+"1162",1,6,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",77,22,18.07,0,0,3.93,935,0
+"1163",1,6,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",184,62,58.34,0,0,3.32,2113,0.33
+"1164",1,6,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",30,11,10.13,0,0,0.87,428,0
+"1165",1,6,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",60,26,24.31,0,0,1.69,805,0
+"1166",1,6,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",78,30,4.34,1.99,18.21,5.46,2179,0
+"1167",1,6,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",324,87,24.01,3.64,22.49,36.86,5501,0
+"1168",1,6,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4417,745,164.91,48.01,172.63,358.47,49353,0.98
+"1169",1,6,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",62,19,2.68,1.18,12.5,2.63,891,0
+"1170",1,6,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",5015,1365,245.64,69.71,438.5,610.47,114315,0.68
+"1171",1,6,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",737,174,14.48,3.14,143,13.33,12118,0.06
+"1172",1,6,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",330,85,5.24,1,68.16,10.6,5207,0
+"1173",1,6,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1004,214,23.07,6.53,159.32,25.08,15477,0
+"1174",1,6,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",600,110,8.56,5.08,81.15,14.21,7143,1
+"1175",1,6,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1230,279,22.82,10.11,210.08,34.48,21639,1.52
+"1176",1,6,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",768,110,12.41,1.94,83.16,12.49,6283,0
+"1177",1,6,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",870,277,14.53,13.02,226.92,22.18,20994,0.36
+"1178",1,6,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",30,4,1,0,2.21,0.79,153,0
+"1179",1,6,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",104,26,9.22,2.68,9.15,4.95,2313,0
+"1180",1,6,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8916,1747,423.01,76.78,357.65,888.97,155821,0.59
+"1181",1,6,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",193,32,6.73,1.28,11.44,12.55,3335,0
+"1182",1,6,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2295,535,78.13,66.75,134.54,255.58,56782,0
+"1183",1,6,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",246,57,10.89,4.56,18.83,22.72,4014,0
+"1184",1,6,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",4530,860,155.91,25.82,295.14,382.13,68949,1
+"1185",1,6,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",421,103,22.82,6.6,26.88,46.7,9387,0
+"1186",1,6,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",550,117,31.19,3.29,36.65,45.87,7809,0
+"1187",1,6,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",175,27,8.8,1.6,6.46,10.13,1796,0
+"1188",1,6,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2648,403,88.33,6.3,116.07,191.94,27919,0.35
+"1189",1,6,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6437,1918,297.73,73.47,662.92,881.82,200841,2.07
+"1190",1,6,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1002,57,16.44,0.4,16.73,23.43,6135,0
+"1191",1,6,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2886,749,86.11,13.81,343.39,305.68,58496,0
+"1192",1,6,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",441,109,26.99,4.29,45.08,32.64,7514,0
+"1193",1,6,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",138,46,10.28,0.05,11,24.67,2926,0
+"1194",1,6,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5650,963,208.94,46.02,342.08,365.95,67105,0
+"1195",1,6,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",706,194,45.41,10.46,62.12,76.01,14851,0
+"1196",1,6,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5372,1091,259.37,51.83,422.16,357.63,71461,0
+"1197",1,6,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1160,259,54.91,10.87,70.59,122.62,17984,0
+"1198",1,6,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2690,470,113.86,34.17,164.86,156.98,33606,0.12
+"1199",1,6,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6913,1939,314.69,66.23,965.11,592.34,160776,0.63
+"1200",1,6,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",570,144,44.39,6.85,33.97,58.79,9237,0
+"1201",1,6,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",5444,1327,285.77,38.48,545.98,456.77,93132,0
+"1202",1,6,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3488,824,214.15,36.91,268.43,300.61,52626,3.89
+"1203",1,6,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",253,94,44.41,0,24.03,25.56,4520,0
+"1204",1,6,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",6014,1226,335.68,32.91,328.37,526.61,65516,2.43
+"1205",1,6,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6294,1059,306.43,11.25,161,575.45,54008,4.86
+"1206",1,6,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3565,695,212.49,10.26,146.35,322.41,34903,3.49
+"1207",1,6,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5168,884,307.49,13.85,74.64,485.08,46942,2.94
+"1208",1,6,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1460,449,121.86,7.03,140.78,179.34,25325,0
+"1209",1,6,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",201,47,19,1,19,8,3518,0
+"1210",1,6,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",177,29,5,0,13,11,2172,0
+"1211",1,6,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",3063,593,157.95,37.54,110.35,282.65,43557,4.52
+"1212",1,6,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2706,417,93.07,51,135.39,135.54,26001,2
+"1213",1,6,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1829,241,61.27,7.82,33.36,138.55,17918,0
+"1214",1,6,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",319,51,7.85,5.97,22.08,15.09,3316,0
+"1215",1,6,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",790,131,28.07,5.75,34.36,62.15,8411,0.68
+"1216",1,6,"YX","Republic Airline","DEN","Denver, CO: Denver International",438,83,18.02,2.56,26.48,35.94,6771,0
+"1217",1,6,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",265,49,26.88,0,15.71,6.41,3073,0
+"1218",1,6,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1192,214,53.74,9.02,77.18,73.95,14216,0.12
+"1219",1,6,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1647,401,58.01,11.48,208.48,122.03,33641,1
+"1220",1,7,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2466,380,55.88,30.18,136.75,157.18,31302,0.02
+"1221",1,7,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",193,41,10.59,0,16.81,13.6,3732,0
+"1222",1,7,"9E","Endeavor Air Inc.","DEN","Denver, CO: Denver International",4,2,1.52,0,0.19,0.28,147,0
+"1223",1,7,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",131,28,11.5,0.85,10.35,5.31,1622,0
+"1224",1,7,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",213,37,11.16,3.77,13.93,8.14,1704,0
+"1225",1,7,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",110,26,7.29,0,11.12,7.59,2110,0
+"1226",1,7,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1014,317,116.01,14.54,95.68,89.77,20483,1
+"1227",1,7,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",7918,1557,448.38,79.53,385.53,641.24,106659,2.32
+"1228",1,7,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",953,343,105.71,12.1,115.71,109.48,20537,0
+"1229",1,7,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",13034,3129,759.39,164.56,893.29,1305.74,225174,6.02
+"1230",1,7,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",779,233,92.76,13.99,53.09,72.69,14690,0.47
+"1231",1,7,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1294,408,143.67,22.17,116.41,124.71,24765,1.04
+"1232",1,7,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3587,748,229.51,51.55,198.64,267.01,50366,1.29
+"1233",1,7,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5738,1338,338.36,77.26,443.51,477.48,90530,1.39
+"1234",1,7,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4915,1045,309.21,42.21,292.07,401.34,69684,0.18
+"1235",1,7,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1186,376,126.3,17.7,100.02,131.83,24564,0.15
+"1236",1,7,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",88,4,3,0,1,0,190,0
+"1237",1,7,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",186,31,14.17,0.53,11.63,4.67,1222,0
+"1238",1,7,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",155,10,3.91,0,4.47,1.62,432,0
+"1239",1,7,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",62,12,2.34,0,7.54,2.12,321,0
+"1240",1,7,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",731,158,52.74,2.18,70.37,32.72,7313,0
+"1241",1,7,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",1973,381,137.24,4.91,151.53,87.14,18536,0.18
+"1242",1,7,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",350,71,19.86,0.51,36.15,14.49,3795,0
+"1243",1,7,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",186,24,3.99,0,19,1.01,774,0
+"1244",1,7,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2360,587,174.91,6.25,253.17,152.17,33692,0.5
+"1245",1,7,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",302,96,43.31,3.54,26.97,21.78,6381,0.41
+"1246",1,7,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",124,25,8.3,2.97,8.72,5,2101,0
+"1247",1,7,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",120,36,14.45,3.61,13.74,4.2,2195,0
+"1248",1,7,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",58,12,3.28,0.95,4.77,3,638,0
+"1249",1,7,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",403,105,35.11,4.9,32.18,32.81,6263,0
+"1250",1,7,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",553,121,33.08,4.24,44.62,39.07,8668,0
+"1251",1,7,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",275,99,33.87,0.86,43.62,20.26,6996,0.38
+"1252",1,7,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,22,9.77,2.56,4.13,5.03,1106,0.51
+"1253",1,7,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",546,141,38.28,7.7,61.5,32.84,8972,0.68
+"1254",1,7,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",21688,3323,727.77,188.68,1174.36,1231.08,262779,1.11
+"1255",1,7,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",542,80,28.36,9.59,23.74,18.31,5758,0
+"1256",1,7,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",1105,154,48.07,11.25,71.23,23.45,9913,0
+"1257",1,7,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",656,158,47.6,13.47,58.65,38.28,10800,0
+"1258",1,7,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",303,60,19.84,6.69,15.2,18.26,4175,0
+"1259",1,7,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1177,134,36.24,9.62,47.26,40.88,8356,0
+"1260",1,7,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",3405,432,168.01,32.12,126.55,102.32,29915,3
+"1261",1,7,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",948,184,46.63,5.55,85.46,46.35,12293,0
+"1262",1,7,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",666,97,28.29,7.85,24.89,35.6,5685,0.38
+"1263",1,7,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1529,228,67.43,11.59,109.22,39.76,13520,0
+"1264",1,7,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1107,201,56.41,0,71.13,73.46,15313,0
+"1265",1,7,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",315,65,33.16,0,8.78,23.06,8264,0
+"1266",1,7,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1189,247,79.81,0,26.06,141.13,25200,0
+"1267",1,7,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2823,383,50.43,15.72,170.32,146.53,31006,0
+"1268",1,7,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",665,150,27.84,4.25,71.61,46.3,12263,0
+"1269",1,7,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",324,123,32.14,4.43,32.81,53.62,8788,0
+"1270",1,7,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",110,52,14.03,0.78,14.36,22.83,3522,0
+"1271",1,7,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",2061,654,141.94,4.61,186.66,320.79,49658,0
+"1272",1,7,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",59,19,4.14,0.44,3.85,10.57,1821,0
+"1273",1,7,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",62,26,4.78,0,4.51,16.71,2227,0
+"1274",1,7,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",550,227,58.59,3.4,32.24,132.77,18557,0
+"1275",1,7,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",93,27,9.41,1.43,6.08,10.08,1932,0
+"1276",1,7,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",248,102,21.78,2.17,18.07,59.98,7771,0
+"1277",1,7,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",155,71,24.76,0.66,11.99,33.59,5887,0
+"1278",1,7,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",74,31,8.13,0.19,7.21,15.47,2231,0
+"1279",1,7,"G4","Allegiant Air","DEN","Denver, CO: Denver International",31,11,2.54,0,4.6,3.86,547,0
+"1280",1,7,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",798,270,54.4,10.61,65.19,139.1,21005,0.71
+"1281",1,7,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",239,56,14.01,1.25,10.19,30.29,3567,0.26
+"1282",1,7,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",80,13,11.21,0,0,1,491,0.79
+"1283",1,7,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",200,53,46.29,0,0.07,6.64,2087,0
+"1284",1,7,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,12,12,0,0,0,290,0
+"1285",1,7,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,9,8.63,0,0.38,0,370,0
+"1286",1,7,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",53,11,3.62,0,4.06,3.33,534,0
+"1287",1,7,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",334,85,15.64,2.51,19.54,47.3,5172,0
+"1288",1,7,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4173,776,138.19,49.25,196.52,388.17,53374,3.87
+"1289",1,7,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",64,13,3.33,0.52,5.54,3.6,488,0
+"1290",1,7,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",5131,918,207.7,35.25,284.69,384.86,62932,5.5
+"1291",1,7,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",762,201,28.45,11.41,127.19,32.71,14269,1.24
+"1292",1,7,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",341,93,10.96,1.55,61.44,19.05,6240,0
+"1293",1,7,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1036,284,55.46,15.23,131.05,81.64,22970,0.63
+"1294",1,7,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",620,108,21.48,7.21,48.31,30.22,6250,0.78
+"1295",1,7,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1269,358,64.42,18.39,191.17,83.78,27631,0.23
+"1296",1,7,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",792,137,23.52,5.93,68.66,38.89,10539,0
+"1297",1,7,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",899,253,33.98,15.06,167.74,35.95,17720,0.27
+"1298",1,7,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,12,3.68,0.03,3.22,5.08,481,0
+"1299",1,7,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",112,27,9.6,3.63,5.5,8.28,1680,0
+"1300",1,7,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",9162,1677,298.59,73.97,362.89,939.52,118805,2.02
+"1301",1,7,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",197,30,11.72,0.17,9.58,8.53,1736,0
+"1302",1,7,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2269,434,70.55,34.77,117.21,211.46,33935,0
+"1303",1,7,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",208,59,18.52,2.22,16.85,21.41,5704,0
+"1304",1,7,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",4772,820,163.55,31.3,305.31,317.73,64476,2.11
+"1305",1,7,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",540,137,41,12.32,34.53,48.27,11022,0.88
+"1306",1,7,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",541,105,38.31,2.08,30.8,33.81,8428,0
+"1307",1,7,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",168,27,5.21,2.86,3.32,15.61,1880,0
+"1308",1,7,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2745,461,107.25,8.2,122.94,221.11,33352,1.5
+"1309",1,7,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6615,1496,278.3,62.47,462.12,689.48,132859,3.62
+"1310",1,7,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1010,116,24.46,3.37,38.09,50.08,7635,0
+"1311",1,7,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2883,599,89.62,7.71,283.2,216.66,39036,1.82
+"1312",1,7,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",430,121,29.04,3.9,47.86,40.21,8788,0
+"1313",1,7,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",150,55,15.06,1.79,8.63,29.52,5225,0
+"1314",1,7,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5840,1001,249.95,41.2,341.46,368.4,82593,0
+"1315",1,7,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",695,197,46.58,5.67,74.02,70.73,13199,0
+"1316",1,7,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5505,1080,295.24,59.51,350.42,374.84,77032,0
+"1317",1,7,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1189,234,40.91,5.75,75.25,112.08,17476,0
+"1318",1,7,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2773,481,129.73,31.48,137.29,182.5,34378,0
+"1319",1,7,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",7247,1592,313.66,80.63,626.35,571.36,128911,0
+"1320",1,7,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",577,123,28.47,8.31,28.36,57.87,8582,0
+"1321",1,7,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",5709,1170,307.98,48.11,412.13,401.77,83942,0
+"1322",1,7,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3588,828,236.83,34.84,241.83,310.15,52388,4.35
+"1323",1,7,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",262,109,37.39,4.65,33.04,33.92,5315,0
+"1324",1,7,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",6258,1437,407.2,59.29,348.67,616.42,79180,5.42
+"1325",1,7,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6474,1361,354.59,31.36,330.37,642.68,72056,2
+"1326",1,7,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3672,732,232.4,15.45,128.8,353.2,38732,2.16
+"1327",1,7,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5275,1131,348.23,25.53,211.41,538.56,63297,7.27
+"1328",1,7,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1507,461,147.31,5.85,132.92,174.92,25226,0
+"1329",1,7,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",233,60,25,5,13,17,5777,0
+"1330",1,7,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",181,38,11,4,13,10,2140,0
+"1331",1,7,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",3144,756,184.79,43.47,146.49,377.81,60980,3.45
+"1332",1,7,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3044,479,126.06,50.76,138.27,162.92,34355,1
+"1333",1,7,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1954,414,96.42,11.71,81.64,224.2,29334,0.03
+"1334",1,7,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",297,59,10.95,5.45,34.27,8.34,4119,0
+"1335",1,7,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",919,117,22.99,7.66,40.16,46.19,7821,0
+"1336",1,7,"YX","Republic Airline","DEN","Denver, CO: Denver International",473,59,14.64,2.95,19.54,21.87,4321,0
+"1337",1,7,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",357,86,27.49,1.76,37.04,19.72,7219,0
+"1338",1,7,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1044,196,49.75,6.65,73.42,66.18,11490,0
+"1339",1,7,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1572,261,30.73,9.2,120.89,100.18,19677,0
+"1340",1,8,"9E","Endeavor Air Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2532,438,70.8,32.63,129.76,204.81,34222,0
+"1341",1,8,"9E","Endeavor Air Inc.","CLT","Charlotte, NC: Charlotte Douglas International",228,48,12.05,0.53,16.88,18.54,5839,0
+"1342",1,8,"9E","Endeavor Air Inc.","DEN","Denver, CO: Denver International",4,0,0,0,0,0,0,0
+"1343",1,8,"9E","Endeavor Air Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",140,33,4.46,2.97,15.8,9.78,1730,0
+"1344",1,8,"9E","Endeavor Air Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",248,36,11.18,0.61,13.84,10.38,1868,0
+"1345",1,8,"9E","Endeavor Air Inc.","ORD","Chicago, IL: Chicago O'Hare International",171,43,6.01,1,26.59,9.4,3935,0
+"1346",1,8,"AA","American Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1002,281,93.5,10.83,96.86,77.81,18130,2
+"1347",1,8,"AA","American Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",8231,1548,427.75,83.42,486.24,549.65,97959,0.95
+"1348",1,8,"AA","American Airlines Inc.","DEN","Denver, CO: Denver International",943,270,82.57,16.99,86.07,83.91,17344,0.46
+"1349",1,8,"AA","American Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",12760,2842,665.4,143.92,863.8,1165.06,212420,3.82
+"1350",1,8,"AA","American Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",784,215,76.86,8.69,76.31,53.14,12055,0
+"1351",1,8,"AA","American Airlines Inc.","LAS","Las Vegas, NV: McCarran International",1231,319,118.72,13.79,77.39,108.42,20193,0.69
+"1352",1,8,"AA","American Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",3567,709,231.17,48.86,204.37,222.75,45886,1.84
+"1353",1,8,"AA","American Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",5793,1536,342.18,60.09,674.97,457.78,106854,0.98
+"1354",1,8,"AA","American Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",4724,955,275.62,42.67,299.31,332.65,68273,4.76
+"1355",1,8,"AA","American Airlines Inc.","SFO","San Francisco, CA: San Francisco International",1187,473,119.4,17.77,213.52,122.14,31223,0.18
+"1356",1,8,"AS","Alaska Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",63,9,1.55,0,4.21,3.24,299,0
+"1357",1,8,"AS","Alaska Airlines Inc.","DEN","Denver, CO: Denver International",179,50,18.05,0,20.46,11.49,1943,0
+"1358",1,8,"AS","Alaska Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",148,21,4.55,0.41,7.76,8.27,895,0
+"1359",1,8,"AS","Alaska Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",56,12,3.4,0,4.36,4.24,435,0
+"1360",1,8,"AS","Alaska Airlines Inc.","LAS","Las Vegas, NV: McCarran International",727,171,58.64,1.29,51.03,58.03,9353,2
+"1361",1,8,"AS","Alaska Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",1905,422,154.02,4.69,148.37,113.92,23181,1
+"1362",1,8,"AS","Alaska Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",351,115,27.94,0,68.4,18.67,5931,0
+"1363",1,8,"AS","Alaska Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",195,39,10.48,0,19.45,9.07,2093,0
+"1364",1,8,"AS","Alaska Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2247,775,182.48,9.96,412.97,169.04,50186,0.56
+"1365",1,8,"B6","JetBlue Airways","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",302,86,35.27,1.46,27.77,20.85,6705,0.64
+"1366",1,8,"B6","JetBlue Airways","CLT","Charlotte, NC: Charlotte Douglas International",124,34,12.5,1.18,14.21,6.11,2736,0
+"1367",1,8,"B6","JetBlue Airways","DEN","Denver, CO: Denver International",120,41,14.86,1.69,16.27,8.18,2274,0
+"1368",1,8,"B6","JetBlue Airways","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",58,7,3.47,0,0.86,2.67,779,0
+"1369",1,8,"B6","JetBlue Airways","LAS","Las Vegas, NV: McCarran International",398,95,33.52,1.67,19.51,39.52,7493,0.79
+"1370",1,8,"B6","JetBlue Airways","LAX","Los Angeles, CA: Los Angeles International",547,142,37.88,8.81,54.74,40.58,9197,0
+"1371",1,8,"B6","JetBlue Airways","ORD","Chicago, IL: Chicago O'Hare International",258,94,28.1,0.34,49.94,14.84,7087,0.78
+"1372",1,8,"B6","JetBlue Airways","PHX","Phoenix, AZ: Phoenix Sky Harbor International",62,21,5.48,0.74,8.16,6.62,1304,0
+"1373",1,8,"B6","JetBlue Airways","SFO","San Francisco, CA: San Francisco International",546,184,33.45,2.29,109.53,38.42,13193,0.31
+"1374",1,8,"DL","Delta Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",21931,2852,755.76,162.84,898,1032.4,213951,3
+"1375",1,8,"DL","Delta Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",584,80,25.66,2.42,31.48,20.44,4903,0
+"1376",1,8,"DL","Delta Air Lines Inc.","DEN","Denver, CO: Denver International",1105,156,55.8,10.67,54.33,35.2,11259,0
+"1377",1,8,"DL","Delta Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",677,125,46.08,6.74,45.46,26.72,8865,0
+"1378",1,8,"DL","Delta Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",329,60,20.84,6.04,20.56,12.56,3536,0
+"1379",1,8,"DL","Delta Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1206,161,53.31,7.49,42.79,57.42,8149,0
+"1380",1,8,"DL","Delta Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",3378,508,151.62,28.15,147.22,180.11,30735,0.9
+"1381",1,8,"DL","Delta Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",1033,229,44.29,5.78,122.17,56.76,18685,0
+"1382",1,8,"DL","Delta Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",653,102,39.5,6.5,22.67,33.32,7591,0
+"1383",1,8,"DL","Delta Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",1529,499,83.56,10.72,325.6,79.13,32017,0
+"1384",1,8,"EV","ExpressJet Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",1147,219,66.99,0,52.69,99.33,16061,0
+"1385",1,8,"EV","ExpressJet Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",315,58,21.81,0,14.22,21.97,6200,0
+"1386",1,8,"EV","ExpressJet Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1261,302,72.17,0,33.27,196.56,28702,0
+"1387",1,8,"EV","ExpressJet Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",3101,466,62.9,13.96,229.55,159.58,34843,0
+"1388",1,8,"EV","ExpressJet Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",666,170,20.33,1.58,90.5,57.59,15225,0
+"1389",1,8,"F9","Frontier Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",303,110,30.41,0.04,36.37,43.18,7587,0
+"1390",1,8,"F9","Frontier Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",121,55,18.41,0,15.79,20.8,4020,0
+"1391",1,8,"F9","Frontier Airlines Inc.","DEN","Denver, CO: Denver International",2104,679,160.74,3.31,172.26,342.68,50664,0
+"1392",1,8,"F9","Frontier Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",54,20,4.8,0,3.94,11.26,1650,0
+"1393",1,8,"F9","Frontier Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",51,21,5.96,0.69,4.75,9.61,1473,0
+"1394",1,8,"F9","Frontier Airlines Inc.","LAS","Las Vegas, NV: McCarran International",593,238,61.73,3.21,37.93,135.13,20485,0
+"1395",1,8,"F9","Frontier Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",104,36,18.02,0,5.63,12.35,2026,0
+"1396",1,8,"F9","Frontier Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",268,102,29.56,1.28,38.09,33.07,7158,0
+"1397",1,8,"F9","Frontier Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",123,45,17.35,0,9.37,18.29,3418,0
+"1398",1,8,"F9","Frontier Airlines Inc.","SFO","San Francisco, CA: San Francisco International",87,52,8.88,0,25.51,17.61,4225,0
+"1399",1,8,"G4","Allegiant Air","DEN","Denver, CO: Denver International",25,5,1,2,0.2,1.8,294,0
+"1400",1,8,"G4","Allegiant Air","LAS","Las Vegas, NV: McCarran International",737,153,42.78,2.8,23.27,83.92,9536,0.23
+"1401",1,8,"G4","Allegiant Air","LAX","Los Angeles, CA: Los Angeles International",177,25,7.91,0.82,3.08,13.2,1174,0
+"1402",1,8,"HA","Hawaiian Airlines Inc.","LAS","Las Vegas, NV: McCarran International",79,10,8.21,0,0,1.79,404,0
+"1403",1,8,"HA","Hawaiian Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",214,44,28.38,0,1,14.62,2901,0
+"1404",1,8,"HA","Hawaiian Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",31,9,6.34,1.66,0,1,223,0
+"1405",1,8,"HA","Hawaiian Airlines Inc.","SFO","San Francisco, CA: San Francisco International",62,13,11,0,0,2,1676,0
+"1406",1,8,"MQ","Envoy Air","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",58,12,0.25,0.03,9.36,2.36,763,0
+"1407",1,8,"MQ","Envoy Air","CLT","Charlotte, NC: Charlotte Douglas International",338,84,10.51,0.83,23.23,49.43,6114,0
+"1408",1,8,"MQ","Envoy Air","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",4147,663,121.23,71.02,195.72,273.53,44860,1.49
+"1409",1,8,"MQ","Envoy Air","IAH","Houston, TX: George Bush Intercontinental/Houston",56,15,2.53,0.41,9.56,2.5,520,0
+"1410",1,8,"MQ","Envoy Air","ORD","Chicago, IL: Chicago O'Hare International",5346,1144,168.42,74.02,480.18,421.15,83834,0.23
+"1411",1,8,"NK","Spirit Air Lines","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",762,184,33.02,5.93,99.05,45.99,16282,0
+"1412",1,8,"NK","Spirit Air Lines","DEN","Denver, CO: Denver International",341,85,11.78,2,46.77,24.15,6456,0.3
+"1413",1,8,"NK","Spirit Air Lines","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1037,272,45.63,18.18,133.61,70.6,23321,3.99
+"1414",1,8,"NK","Spirit Air Lines","IAH","Houston, TX: George Bush Intercontinental/Houston",620,124,29.12,7.5,60.29,26.29,7588,0.8
+"1415",1,8,"NK","Spirit Air Lines","LAS","Las Vegas, NV: McCarran International",1272,321,50.22,12.55,154.38,102.02,25160,1.83
+"1416",1,8,"NK","Spirit Air Lines","LAX","Los Angeles, CA: Los Angeles International",793,145,35.13,2.18,57.1,49.54,12001,1.05
+"1417",1,8,"NK","Spirit Air Lines","ORD","Chicago, IL: Chicago O'Hare International",894,343,41.75,10.5,219.36,70.82,30875,0.57
+"1418",1,8,"NK","Spirit Air Lines","PHX","Phoenix, AZ: Phoenix Sky Harbor International",30,5,1.28,0,1.1,2.62,468,0
+"1419",1,8,"OH","PSA Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",112,44,16.67,3,12.75,11.58,3058,0
+"1420",1,8,"OH","PSA Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",9038,1679,285.27,76.22,442.65,873.6,118212,1.26
+"1421",1,8,"OH","PSA Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",205,53,11.42,0.21,24.96,16.41,4278,0
+"1422",1,8,"OO","SkyWest Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",2227,440,82.53,36.54,97.09,223.65,36153,0.19
+"1423",1,8,"OO","SkyWest Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",235,63,11.43,4,26.63,20.94,5079,0
+"1424",1,8,"OO","SkyWest Airlines Inc.","DEN","Denver, CO: Denver International",4689,803,160.91,29.13,247.95,365.01,65080,0
+"1425",1,8,"OO","SkyWest Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",594,131,41.16,8.59,37.97,43.28,15072,0
+"1426",1,8,"OO","SkyWest Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",491,95,26.75,5.35,30.78,32.13,6338,0
+"1427",1,8,"OO","SkyWest Airlines Inc.","LAS","Las Vegas, NV: McCarran International",190,34,7.31,0.49,5.04,21.16,2408,0
+"1428",1,8,"OO","SkyWest Airlines Inc.","LAX","Los Angeles, CA: Los Angeles International",2773,456,91.97,10.06,115.83,238.06,35317,0.08
+"1429",1,8,"OO","SkyWest Airlines Inc.","ORD","Chicago, IL: Chicago O'Hare International",6427,1918,316.51,59.62,692.08,846.3,201199,3.49
+"1430",1,8,"OO","SkyWest Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",970,128,28.89,5.91,35.81,55.4,9484,1.99
+"1431",1,8,"OO","SkyWest Airlines Inc.","SFO","San Francisco, CA: San Francisco International",2984,1091,83.96,10.72,643.46,351.86,105513,1
+"1432",1,8,"UA","United Air Lines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",427,110,31.73,5.13,38.45,34.69,8280,0
+"1433",1,8,"UA","United Air Lines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",113,52,13.53,2.34,13.98,22.15,4809,0
+"1434",1,8,"UA","United Air Lines Inc.","DEN","Denver, CO: Denver International",5876,1044,283.8,67,313.77,379.43,75139,0
+"1435",1,8,"UA","United Air Lines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",640,197,39.67,16.77,83.52,57.04,13193,0
+"1436",1,8,"UA","United Air Lines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",5391,1197,285.63,65.08,428.72,417.56,82577,0
+"1437",1,8,"UA","United Air Lines Inc.","LAS","Las Vegas, NV: McCarran International",1206,319,68.07,14.41,65.48,171.04,24261,0
+"1438",1,8,"UA","United Air Lines Inc.","LAX","Los Angeles, CA: Los Angeles International",2664,545,138.29,35.43,148.73,222.56,39997,0
+"1439",1,8,"UA","United Air Lines Inc.","ORD","Chicago, IL: Chicago O'Hare International",7484,2006,348.59,76.52,939.64,641.26,165022,0
+"1440",1,8,"UA","United Air Lines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",597,142,34.31,12.2,29.27,66.22,11946,0
+"1441",1,8,"UA","United Air Lines Inc.","SFO","San Francisco, CA: San Francisco International",6113,1988,323.81,45.85,1054.38,563.96,156189,0
+"1442",1,8,"WN","Southwest Airlines Co.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",3643,743,207.05,37.18,236.83,258.61,44650,3.34
+"1443",1,8,"WN","Southwest Airlines Co.","CLT","Charlotte, NC: Charlotte Douglas International",289,71,25.8,1.98,20.82,22.4,3542,0
+"1444",1,8,"WN","Southwest Airlines Co.","DEN","Denver, CO: Denver International",6036,1173,339.8,34.96,289.96,507.38,64759,0.9
+"1445",1,8,"WN","Southwest Airlines Co.","LAS","Las Vegas, NV: McCarran International",6368,1047,296.84,27.38,160.29,555.58,53926,6.92
+"1446",1,8,"WN","Southwest Airlines Co.","LAX","Los Angeles, CA: Los Angeles International",3757,689,215.42,13.84,135.71,323.17,37282,0.87
+"1447",1,8,"WN","Southwest Airlines Co.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",5208,948,288.4,25.05,228.61,405.16,50041,0.77
+"1448",1,8,"WN","Southwest Airlines Co.","SFO","San Francisco, CA: San Francisco International",1539,593,114.93,6.3,298.32,172.45,35340,1
+"1449",1,8,"YV","Mesa Airlines Inc.","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",226,36,15,6,7,8,2920,0
+"1450",1,8,"YV","Mesa Airlines Inc.","CLT","Charlotte, NC: Charlotte Douglas International",185,42,14,9,11,8,2160,0
+"1451",1,8,"YV","Mesa Airlines Inc.","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",3365,705,182.99,37.94,133.81,349.11,57541,1.15
+"1452",1,8,"YV","Mesa Airlines Inc.","IAH","Houston, TX: George Bush Intercontinental/Houston",2967,533,127.28,65.27,145.14,192.93,41516,2.39
+"1453",1,8,"YV","Mesa Airlines Inc.","PHX","Phoenix, AZ: Phoenix Sky Harbor International",1880,337,88.16,12.47,69.51,165.86,26524,1
+"1454",1,8,"YX","Republic Airline","ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",382,70,8.88,7.33,31.48,22.01,3497,0.29
+"1455",1,8,"YX","Republic Airline","CLT","Charlotte, NC: Charlotte Douglas International",1031,163,27.5,10.83,58.91,65.75,10992,0
+"1456",1,8,"YX","Republic Airline","DEN","Denver, CO: Denver International",469,54,14.08,3.15,16.75,19.52,3925,0.5
+"1457",1,8,"YX","Republic Airline","DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",406,95,27.81,2.69,37.38,27.11,7298,0
+"1458",1,8,"YX","Republic Airline","IAH","Houston, TX: George Bush Intercontinental/Houston",1180,213,46.24,15.91,82.91,67.22,14689,0.72
+"1459",1,8,"YX","Republic Airline","ORD","Chicago, IL: Chicago O'Hare International",1476,375,49.21,12.02,210.93,102.82,29156,0.02

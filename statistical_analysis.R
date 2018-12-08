@@ -15,10 +15,10 @@ raw_data <- read.csv("airline_delay_causes.csv")
 clean_data <- raw_data %>%
   group_by(year, month, carrier, carrier_name, airport, airport_name) %>% 
   dplyr::select(year, month, carrier, carrier_name, airport, airport_name, arr_flights, arr_del15, carrier_ct,
-                      weather_ct, nas_ct, late_aircraft_ct, arr_delay) %>% 
+                      weather_ct, nas_ct, late_aircraft_ct, arr_delay, security_ct) %>% 
   summarise(arr_flights = sum(arr_flights), arr_del15 = sum(arr_del15), carrier_ct = sum(carrier_ct), 
             weather_ct = sum(weather_ct), nas_ct = sum(nas_ct), late_aircraft_ct = sum(late_aircraft_ct), 
-            arr_delay = sum(arr_delay)) %>% 
+            arr_delay = sum(arr_delay), security_ct=sum(security_ct)) %>% 
   na.omit()
 
 # Calculate the min, max, median, and mean.
@@ -77,6 +77,8 @@ top_data <- clean_data %>%
   group_by(airport) %>%
   subset(airport %in% top_10_name) %>% 
   mutate(year = as.numeric((year == 2018)))
+
+write.csv(top_data, file="top_data.csv")
 
 ## A general linear regression model for all the airports combined
 ## With all variables considered
